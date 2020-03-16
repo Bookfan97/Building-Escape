@@ -605,3 +605,123 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.16-02.26.47:868][554]LogAssetRegistry: Asset discovery search completed in 16.7574 seconds
 [2020.03.16-02.26.47:873][554]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000009 seconds (updated 0 objects)
 [2020.03.16-02.27.05:228][665]LogSlate: Window 'Save Level As' being destroyed
+[2020.03.16-02.39.09:922][327]LogTemp: Resetting audio stream to device id 
+[2020.03.16-02.39.09:967][327]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.16-02.39.09:968][327]LogAudioMixer: Display: Name: Headphones (Realtek USB Audio)
+[2020.03.16-02.39.09:968][327]LogAudioMixer: Display: Is Default: Yes
+[2020.03.16-02.39.09:968][327]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.16-02.39.09:968][327]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.16-02.39.09:968][327]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.16-02.39.09:968][327]LogAudioMixer: Display: Channel Order:
+[2020.03.16-02.39.09:968][327]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.16-02.39.09:968][327]LogAudioMixer: Display: 1: FrontRight
+[2020.03.16-02.58.08:419][868]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.03.16-02.58.18:355][440]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.16-02.58.18:369][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.16-02.58.18:370][440]PIE: New page: PIE session: Untitled_1 (Mar 15, 2020, 6:58:18 PM)
+[2020.03.16-02.58.18:371][440]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.03.16-02.58.18:372][440]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.03.16-02.58.18:372][440]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.03.16-02.58.18:377][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004041s)
+[2020.03.16-02.58.18:378][440]LogAIModule: Creating AISystem for world Untitled_1
+[2020.03.16-02.58.18:379][440]LogPlayLevel: PIE: World Init took: (0.001952s)
+[2020.03.16-02.58.18:379][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006269s)
+[2020.03.16-02.58.18:408][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.03.16-02.58.18:410][440]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.16-02.58.18:410][440]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.16-02.58.18:410][440]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.16-02.58.18:410][440]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.16-02.58.18:410][440]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.16-02.58.18:410][440]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.16-02.58.18:410][440]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.16-02.58.18:411][440]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.16-02.58.18:411][440]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.16-02.58.18:411][440]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.16-02.58.18:451][440]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.16-02.58.18:451][440]LogAudioMixer: Display: Name: Headphones (Realtek USB Audio)
+[2020.03.16-02.58.18:451][440]LogAudioMixer: Display: Is Default: Yes
+[2020.03.16-02.58.18:451][440]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.16-02.58.18:451][440]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.16-02.58.18:451][440]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.16-02.58.18:451][440]LogAudioMixer: Display: Channel Order:
+[2020.03.16-02.58.18:451][440]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.16-02.58.18:451][440]LogAudioMixer: Display: 1: FrontRight
+[2020.03.16-02.58.18:468][440]LogAudioMixer: Display: Using Audio Device Headphones (Realtek USB Audio)
+[2020.03.16-02.58.18:470][440]LogInit: FAudioDevice initialized.
+[2020.03.16-02.58.18:478][440]LogLoad: Game class is 'GameModeBase'
+[2020.03.16-02.58.18:480][440]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2020.03.15-22.58.18
+[2020.03.16-02.58.18:481][440]LogWorld: Bringing up level for play took: 0.000945
+[2020.03.16-02.58.18:481][440]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.03.16-02.58.18:560][440]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 20 classes and 0 folders.
+[2020.03.16-02.58.18:561][440]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.485
+[2020.03.16-02.59.28:441][611]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.16-02.59.28:441][611]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.16-02.59.28:441][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.16-02.59.28:441][611]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.03.16-02.59.28:441][611]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.16-02.59.28:441][611]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.03.16-02.59.28:442][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.16-02.59.28:449][611]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.16-02.59.28:453][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.16-02.59.28:479][611]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.16-02.59.28:484][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.16-02.59.28:487][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.03.16-02.59.28:554][614]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.03.16-02.59.49:769][768]LogSlate: Took 0.007772 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.16-03.02.36:786][979]LogSlate: Window 'Class Viewer' being destroyed
+[2020.03.16-03.02.36:795][979]LogSlate: Window 'Class Viewer' being destroyed
+[2020.03.16-03.03.10:985][946]LogActorFactory: Actor Factory created Sphere
+[2020.03.16-03.03.13:066][ 64]LogActorFactory: Actor Factory created Sphere
+[2020.03.16-03.03.25:589][800]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.03.16-03.03.25:590][800]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.03.16-03.03.25:672][800]LogSlate: Took 0.012082 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.16-03.03.35:901][800]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.03.16-03.04.00:036][800]Candidate modules for hot reload:
+[2020.03.16-03.04.00:036][800]  BuildingEscape
+[2020.03.16-03.04.00:036][800]Launching UnrealBuildTool... [D:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,9501 Win64 Development -TargetType=Editor -Project="D:/GitHub/Building-Escape/BuildingEscape/BuildingEscape.uproject" "D:/GitHub/Building-Escape/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.03.16-03.04.40:288][800]CompilerResultsLog: New page: Compilation - Mar 15, 2020, 7:04:40 PM
+[2020.03.16-03.04.40:288][800]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\GitHub\Building-Escape).
+[2020.03.16-03.04.40:288][800]CompilerResultsLog: Creating makefile for BuildingEscapeEditor (.uproject file is newer)
+[2020.03.16-03.04.40:288][800]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.03.16-03.04.40:288][800]CompilerResultsLog:   Running UnrealHeaderTool "D:\GitHub\Building-Escape\BuildingEscape\BuildingEscape.uproject" "D:\GitHub\Building-Escape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.03.16-03.04.40:288][800]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 31.5383649 seconds
+[2020.03.16-03.04.40:288][800]CompilerResultsLog: Building BuildingEscapeEditor...
+[2020.03.16-03.04.40:288][800]CompilerResultsLog: Using Visual Studio 2019 14.24.28315 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.03.16-03.04.40:288][800]CompilerResultsLog: Building 9 actions with 8 processes...
+[2020.03.16-03.04.40:288][800]CompilerResultsLog:   [1/9] BuildingEscape.cpp
+[2020.03.16-03.04.40:288][800]CompilerResultsLog:   [2/9] WorldPosition.cpp
+[2020.03.16-03.04.40:288][800]CompilerResultsLog:   [3/9] BuildingEscapeGameModeBase.cpp
+[2020.03.16-03.04.40:288][800]CompilerResultsLog:   [4/9] BuildingEscape.init.gen.cpp
+[2020.03.16-03.04.40:288][800]CompilerResultsLog:   [5/9] WorldPosition.gen.cpp
+[2020.03.16-03.04.40:288][800]CompilerResultsLog:   [6/9] BuildingEscapeGameModeBase.gen.cpp
+[2020.03.16-03.04.40:288][800]CompilerResultsLog:   [7/9] UE4Editor-BuildingEscape-9501.lib
+[2020.03.16-03.04.40:288][800]CompilerResultsLog:      Creating library D:\GitHub\Building-Escape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-9501.lib and object D:\GitHub\Building-Escape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-9501.exp
+[2020.03.16-03.04.40:288][800]CompilerResultsLog:   [8/9] UE4Editor-BuildingEscape-9501.dll
+[2020.03.16-03.04.40:288][800]CompilerResultsLog:      Creating library D:\GitHub\Building-Escape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-9501.suppressed.lib and object D:\GitHub\Building-Escape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-9501.suppressed.exp
+[2020.03.16-03.04.40:288][800]CompilerResultsLog:   [9/9] BuildingEscapeEditor.target
+[2020.03.16-03.04.40:288][800]CompilerResultsLog: Total time in Parallel executor: 2.95 seconds
+[2020.03.16-03.04.40:289][800]CompilerResultsLog: Total execution time: 39.72 seconds
+[2020.03.16-03.04.40:289][800]LogMainFrame: MainFrame: Module compiling took 40.266 seconds
+[2020.03.16-03.04.40:317][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.03.16-03.04.40:336][800]LogClass: Could not find existing class WorldPosition in package /Script/BuildingEscape for HotReload, assuming new class
+[2020.03.16-03.04.40:338][800]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0004 seconds. Added 2 classes and 2 folders.
+[2020.03.16-03.04.40:341][800]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.03.16-03.04.40:411][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.03.16-03.04.40:425][800]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 3019 classes and 722 folders.
+[2020.03.16-03.04.40:425][800]Display: HotReload took 40.4s.
+[2020.03.16-03.04.40:434][800]Warning: HotReload operation took 40.4s.
+[2020.03.16-03.04.40:487][800]LogSlate: Window 'Add C++ Component' being destroyed
+[2020.03.16-03.04.40:516][800]LogHotReload: New module detected: UE4Editor-BuildingEscape-9501.dll
+[2020.03.16-03.04.40:548][800]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.16-03.04.40:590][801]LogHotReload: Starting Hot-Reload from IDE
+[2020.03.16-03.04.40:723][801]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.03.16-03.04.40:730][801]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0005 seconds. Added 2 classes and 2 folders.
+[2020.03.16-03.04.40:735][801]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.03.16-03.04.40:761][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.03.16-03.04.40:775][801]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 3019 classes and 722 folders.
+[2020.03.16-03.04.40:785][801]Display: HotReload took  0.2s.
+[2020.03.16-03.08.41:920][658]LogActorFactory: Actor Factory created Cube
+[2020.03.16-03.08.42:730][706]LogActorFactory: Actor Factory created Cube
+[2020.03.16-03.08.56:887][499]LogSlate: Took 0.007600 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.16-03.08.58:276][578]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.03.16-03.08.59:385][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
