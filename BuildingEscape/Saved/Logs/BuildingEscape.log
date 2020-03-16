@@ -725,3 +725,287 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.16-03.08.56:887][499]LogSlate: Took 0.007600 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
 [2020.03.16-03.08.58:276][578]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
 [2020.03.16-03.08.59:385][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.03.16-03.10.02:325][963]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.03.16-03.10.04:131][ 64]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.03.16-03.10.08:297][309]Cmd: TRANSACTION UNDO
+[2020.03.16-03.10.08:297][309]LogEditorTransaction: Undo Move Actors
+[2020.03.16-03.10.08:699][320]Cmd: TRANSACTION UNDO
+[2020.03.16-03.10.08:699][320]LogEditorTransaction: Undo Clicking on Actors
+[2020.03.16-03.10.09:202][345]Cmd: TRANSACTION UNDO
+[2020.03.16-03.10.09:202][345]LogEditorTransaction: Undo Clicking on Actors
+[2020.03.16-03.11.14:276][197]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.03.16-03.11.14:278][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../GitHub/Building-Escape/BuildingEscape/Saved/Autosaves/Temp/Untitled_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.03.16-03.11.14:304][197]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/Untitled_1_Auto19BFBDF83438D915C9C4AE98BF944E1B7.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2020.03.16-03.11.14:316][197]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.072
+[2020.03.16-03.11.14:316][197]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.072
+[2020.03.16-03.17.44:669][924]Candidate modules for hot reload:
+[2020.03.16-03.17.44:669][924]  BuildingEscape
+[2020.03.16-03.17.44:669][924]Launching UnrealBuildTool... [D:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,5378 Win64 Development -TargetType=Editor -Project="D:/GitHub/Building-Escape/BuildingEscape/BuildingEscape.uproject" "D:/GitHub/Building-Escape/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.03.16-03.17.44:674][924]Warning: Starting HotReload took  0.0s.
+[2020.03.16-03.17.57:496][ 78]CompilerResultsLog: New page: Compilation - Mar 15, 2020, 7:17:57 PM
+[2020.03.16-03.17.57:496][ 78]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\GitHub\Building-Escape).
+[2020.03.16-03.17.57:496][ 78]CompilerResultsLog: Creating makefile for BuildingEscapeEditor (config setting changed)
+[2020.03.16-03.17.57:496][ 78]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.03.16-03.17.57:496][ 78]CompilerResultsLog:   Running UnrealHeaderTool "D:\GitHub\Building-Escape\BuildingEscape\BuildingEscape.uproject" "D:\GitHub\Building-Escape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.03.16-03.17.57:496][ 78]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 8.0700289 seconds
+[2020.03.16-03.17.57:496][ 78]CompilerResultsLog: Building BuildingEscapeEditor...
+[2020.03.16-03.17.57:496][ 78]CompilerResultsLog: Using Visual Studio 2019 14.24.28315 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.03.16-03.17.57:496][ 78]CompilerResultsLog: Building 5 actions with 8 processes...
+[2020.03.16-03.17.57:496][ 78]CompilerResultsLog:   [1/5] WorldPosition.cpp
+[2020.03.16-03.17.57:496][ 78]CompilerResultsLog:    D:\GitHub\Building-Escape\BuildingEscape\Source\BuildingEscape\WorldPosition.h(22) : error C2059: syntax error: '{'
+[2020.03.16-03.17.57:496][ 78]CompilerResultsLog:    D:\GitHub\Building-Escape\BuildingEscape\Source\BuildingEscape\WorldPosition.h(22) : error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+[2020.03.16-03.17.57:496][ 78]CompilerResultsLog:   [2/5] WorldPosition.gen.cpp
+[2020.03.16-03.17.57:496][ 78]CompilerResultsLog:    D:\GitHub\Building-Escape\BuildingEscape\Source\BuildingEscape/WorldPosition.h(22) : error C2059: syntax error: '{'
+[2020.03.16-03.17.57:496][ 78]CompilerResultsLog:    D:\GitHub\Building-Escape\BuildingEscape\Source\BuildingEscape/WorldPosition.h(22) : error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+[2020.03.16-03.17.57:496][ 78]LogMainFrame: MainFrame: Module compiling took 12.841 seconds
+[2020.03.16-03.17.57:496][ 78]Warning: HotReload failed, recompile failed
+[2020.03.16-03.18.50:285][498]LogSlate: Window 'Message Log' being destroyed
+[2020.03.16-03.18.50:296][498]LogSlate: Window 'Message Log' being destroyed
+[2020.03.16-03.18.51:121][546]Candidate modules for hot reload:
+[2020.03.16-03.18.51:121][546]  BuildingEscape
+[2020.03.16-03.18.51:122][546]Launching UnrealBuildTool... [D:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,8029 Win64 Development -TargetType=Editor -Project="D:/GitHub/Building-Escape/BuildingEscape/BuildingEscape.uproject" "D:/GitHub/Building-Escape/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.03.16-03.18.51:125][546]Warning: Starting HotReload took  0.0s.
+[2020.03.16-03.19.02:971][835]CompilerResultsLog: New page: Compilation - Mar 15, 2020, 7:19:02 PM
+[2020.03.16-03.19.02:971][835]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\GitHub\Building-Escape).
+[2020.03.16-03.19.02:971][835]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.03.16-03.19.02:971][835]CompilerResultsLog:   Running UnrealHeaderTool "D:\GitHub\Building-Escape\BuildingEscape\BuildingEscape.uproject" "D:\GitHub\Building-Escape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.03.16-03.19.02:971][835]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 8.010755 seconds
+[2020.03.16-03.19.02:971][835]CompilerResultsLog: Building BuildingEscapeEditor...
+[2020.03.16-03.19.02:971][835]CompilerResultsLog: Using Visual Studio 2019 14.24.28315 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.03.16-03.19.02:971][835]CompilerResultsLog: Building 5 actions with 8 processes...
+[2020.03.16-03.19.02:971][835]CompilerResultsLog:   [1/5] WorldPosition.cpp
+[2020.03.16-03.19.02:971][835]CompilerResultsLog:   [2/5] WorldPosition.gen.cpp
+[2020.03.16-03.19.02:971][835]CompilerResultsLog:   [3/5] UE4Editor-BuildingEscape-8029.lib
+[2020.03.16-03.19.02:971][835]CompilerResultsLog:      Creating library D:\GitHub\Building-Escape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-8029.lib and object D:\GitHub\Building-Escape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-8029.exp
+[2020.03.16-03.19.02:971][835]CompilerResultsLog:   [4/5] UE4Editor-BuildingEscape-8029.dll
+[2020.03.16-03.19.02:971][835]CompilerResultsLog:      Creating library D:\GitHub\Building-Escape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-8029.suppressed.lib and object D:\GitHub\Building-Escape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-8029.suppressed.exp
+[2020.03.16-03.19.02:971][835]CompilerResultsLog:   [5/5] BuildingEscapeEditor.target
+[2020.03.16-03.19.02:971][835]CompilerResultsLog: Total time in Parallel executor: 1.93 seconds
+[2020.03.16-03.19.02:971][835]CompilerResultsLog: Total execution time: 11.40 seconds
+[2020.03.16-03.19.02:972][835]LogMainFrame: MainFrame: Module compiling took 11.863 seconds
+[2020.03.16-03.19.03:002][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.03.16-03.19.03:031][835]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0006 seconds. Added 2 classes and 2 folders.
+[2020.03.16-03.19.03:034][835]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.03.16-03.19.03:110][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.03.16-03.19.03:126][835]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 3019 classes and 722 folders.
+[2020.03.16-03.19.03:126][835]Display: HotReload took 12.0s.
+[2020.03.16-03.19.06:004][845]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.16-03.19.06:024][845]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.16-03.19.06:024][845]PIE: New page: PIE session: Untitled_1 (Mar 15, 2020, 7:19:06 PM)
+[2020.03.16-03.19.06:024][845]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.03.16-03.19.06:027][845]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003170s)
+[2020.03.16-03.19.06:030][845]LogAIModule: Creating AISystem for world Untitled_1
+[2020.03.16-03.19.06:030][845]LogPlayLevel: PIE: World Init took: (0.001867s)
+[2020.03.16-03.19.06:030][845]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.005200s)
+[2020.03.16-03.19.06:058][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.03.16-03.19.06:059][845]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.16-03.19.06:059][845]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.16-03.19.06:059][845]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.16-03.19.06:059][845]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.16-03.19.06:059][845]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.16-03.19.06:059][845]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.16-03.19.06:059][845]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.16-03.19.06:059][845]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.16-03.19.06:060][845]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.16-03.19.06:060][845]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.16-03.19.06:095][845]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.16-03.19.06:095][845]LogAudioMixer: Display: Name: Headphones (Realtek USB Audio)
+[2020.03.16-03.19.06:095][845]LogAudioMixer: Display: Is Default: Yes
+[2020.03.16-03.19.06:095][845]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.16-03.19.06:095][845]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.16-03.19.06:095][845]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.16-03.19.06:095][845]LogAudioMixer: Display: Channel Order:
+[2020.03.16-03.19.06:095][845]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.16-03.19.06:095][845]LogAudioMixer: Display: 1: FrontRight
+[2020.03.16-03.19.06:111][845]LogAudioMixer: Display: Using Audio Device Headphones (Realtek USB Audio)
+[2020.03.16-03.19.06:113][845]LogInit: FAudioDevice initialized.
+[2020.03.16-03.19.06:127][845]LogLoad: Game class is 'GameModeBase'
+[2020.03.16-03.19.06:128][845]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2020.03.15-23.19.06
+[2020.03.16-03.19.06:128][845]LogWorld: Bringing up level for play took: 0.000755
+[2020.03.16-03.19.06:129][845]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.03.16-03.19.06:131][845]LogTemp: Warning: This is a warning!
+[2020.03.16-03.19.06:131][845]LogTemp: Warning: This is a warning!
+[2020.03.16-03.19.06:131][845]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 1.085
+[2020.03.16-03.19.08:292][963]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:117).
+[2020.03.16-03.19.08:377][967]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:118).
+[2020.03.16-03.19.08:894][995]LogSlate: Took 0.011331 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.03.16-03.19.26:903][ 64]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.16-03.19.26:906][ 64]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.16-03.19.26:935][ 64]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.16-03.19.26:936][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.16-03.19.26:936][ 64]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.03.16-03.19.26:936][ 64]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.16-03.19.26:936][ 64]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.03.16-03.19.26:936][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.16-03.19.26:955][ 64]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.16-03.19.26:960][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.16-03.19.26:986][ 64]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.16-03.19.26:992][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.16-03.19.26:996][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.03.16-03.19.27:022][ 65]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.03.16-03.19.30:694][278]MapCheck: New page: Map Check
+[2020.03.16-03.19.30:723][278]Cmd: MAP REBUILD ALLVISIBLE
+[2020.03.16-03.19.30:723][278]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.03.16-03.19.30:799][278]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=false
+[2020.03.16-03.19.30:858][278]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.03.16-03.19.30:877][278]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.16-03.19.30:900][278]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.03.16-03.19.30:900][278]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.03.16-03.19.30:900][278]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.16-03.19.30:918][278]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.16-03.19.32:516][278]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.03.16-03.19.32:516][278]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.03.16-03.19.32:516][278]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.03.16-03.19.32:516][278]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.03.16-03.19.32:516][278]TextureStreamingBuild: Display: Compiling optional shaders took 1.657 seconds.
+[2020.03.16-03.19.32:538][278]LogLevel: Display: Export Material TexCoord Scales took 0.021 seconds.
+[2020.03.16-03.19.32:541][278]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2020.03.16-03.19.32:568][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.03.16-03.19.32:573][278]LightingResults: New page: Lighting Build - Mar 15, 2020, 7:19:32 PM
+[2020.03.16-03.19.32:705][278]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.16-03.19.32:899][278]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.16-03.19.32:916][278]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.16-03.19.33:966][278]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.16-03.19.33:966][278]LogSwarmInterface: [TryOpenConnection] Local Process ID is 27108
+[2020.03.16-03.19.36:715][278]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.03.16-03.19.36:715][278]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.16-03.19.36:715][278]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.16-03.19.36:715][278]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.16-03.19.36:715][278]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.16-03.19.36:715][278]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.16-03.19.37:034][278]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.03.16-03.19.37:034][278]MapCheck: New page: Untitled_1 - Mar 15, 2020, 7:19:37 PM
+[2020.03.16-03.19.37:034][278]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.03.16-03.19.37:034][278]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.584ms to complete.
+[2020.03.16-03.19.37:037][278]LogEditorBuildUtils: Build time 0:06
+[2020.03.16-03.19.37:129][278]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2020.03.16-03.19.37:166][278]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.03.16-03.19.37:166][278]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.03.16-03.19.37:166][278]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2020.03.16-03.19.37:281][278]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.03.16-03.19.37:281][278]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.03.16-03.19.37:520][280]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2020.03.16-03.19.37:553][280]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2020.03.16-03.19.38:740][282]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.03.16-03.19.38:740][282]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.03.16-03.19.39:049][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.03.16-03.19.41:466][350]Job is a success!
+[2020.03.16-03.19.41:622][351]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2020.03.16-03.19.41:622][351]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.03.16-03.19.41:622][351]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2020.03.16-03.19.41:622][351]LogVolumetricLightmapImport:      Bricks at depth
+[2020.03.16-03.19.41:622][351]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2020.03.16-03.19.41:622][351]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2020.03.16-03.19.41:622][351]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2020.03.16-03.19.41:622][351]LogVolumetricLightmapImport:      Bricks in each level
+[2020.03.16-03.19.41:622][351]LogVolumetricLightmapImport:          Untitled_1 			 6 bricks 	 100.0% (Persistent Level)
+[2020.03.16-03.19.41:709][351]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2020.03.16-03.19.41:710][351]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2020.03.16-03.19.41:710][351]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.03.16-03.19.41:710][351]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.03.16-03.19.41:710][351]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2020.03.16-03.19.41:710][351]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X128)
+[2020.03.16-03.19.41:710][351]Lightmass on NOAHSLAPTOP: 1.32 sec total, 235 ms importing, 4 ms setup, 113 ms photons, 903 ms processing, 0 ms extra exporting [4/4 mappings]. Threads: 6.31 sec total, 421 ms processing.
+[2020.03.16-03.19.41:710][351]LogStaticLightingSystem: Untitled_1_BuiltData storing lightmap data for 4 meshes in 2 LightmapResourceClusters (2.0 Meshes per cluster).
+[2020.03.16-03.19.41:742][351]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.03.16-03.19.41:805][351]LogStaticLightingSystem: Illumination: 9.13 sec (30 ms encoding lightmaps, 18 ms encoding shadowmaps)
+[2020.03.16-03.19.41:805][351]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.03.16-03.19.41:805][351]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.03.16-03.19.42:738][351]DumpUnbuiltLightIteractions
+[2020.03.16-03.19.42:738][351]Lights with unbuilt interactions: 0
+[2020.03.16-03.19.42:738][351]
+[2020.03.16-03.19.42:738][351]Primitives with unbuilt interactions: 0
+[2020.03.16-03.19.42:932][352]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.16-03.19.42:932][352]MapCheck: New page: Untitled_1 - Mar 15, 2020, 7:19:42 PM
+[2020.03.16-03.19.42:933][352]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.382ms to complete.
+[2020.03.16-03.19.44:414][434]LogSlate: Window 'Message Log' being destroyed
+[2020.03.16-03.19.44:428][434]LogSlate: Window 'Message Log' being destroyed
+[2020.03.16-03.19.45:665][506]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.16-03.19.45:678][506]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.16-03.19.45:679][506]PIE: New page: PIE session: Untitled_1 (Mar 15, 2020, 7:19:45 PM)
+[2020.03.16-03.19.45:679][506]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.03.16-03.19.45:681][506]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002689s)
+[2020.03.16-03.19.45:683][506]LogAIModule: Creating AISystem for world Untitled_1
+[2020.03.16-03.19.45:683][506]LogPlayLevel: PIE: World Init took: (0.001431s)
+[2020.03.16-03.19.45:683][506]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004332s)
+[2020.03.16-03.19.45:710][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.03.16-03.19.45:711][506]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.16-03.19.45:711][506]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.16-03.19.45:711][506]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.16-03.19.45:711][506]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.16-03.19.45:711][506]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.16-03.19.45:711][506]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.16-03.19.45:711][506]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.16-03.19.45:711][506]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.16-03.19.45:712][506]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.16-03.19.45:712][506]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.16-03.19.45:743][506]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.16-03.19.45:743][506]LogAudioMixer: Display: Name: Headphones (Realtek USB Audio)
+[2020.03.16-03.19.45:743][506]LogAudioMixer: Display: Is Default: Yes
+[2020.03.16-03.19.45:743][506]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.16-03.19.45:743][506]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.16-03.19.45:743][506]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.16-03.19.45:743][506]LogAudioMixer: Display: Channel Order:
+[2020.03.16-03.19.45:743][506]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.16-03.19.45:743][506]LogAudioMixer: Display: 1: FrontRight
+[2020.03.16-03.19.45:762][506]LogAudioMixer: Display: Using Audio Device Headphones (Realtek USB Audio)
+[2020.03.16-03.19.45:764][506]LogInit: FAudioDevice initialized.
+[2020.03.16-03.19.45:774][506]LogLoad: Game class is 'GameModeBase'
+[2020.03.16-03.19.45:775][506]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2020.03.15-23.19.45
+[2020.03.16-03.19.45:775][506]LogWorld: Bringing up level for play took: 0.000744
+[2020.03.16-03.19.45:775][506]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.03.16-03.19.45:778][506]LogTemp: Warning: This is a warning!
+[2020.03.16-03.19.45:778][506]LogTemp: Warning: This is a warning!
+[2020.03.16-03.19.45:778][506]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.732
+[2020.03.16-03.19.54:155][  1]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.16-03.19.54:166][  1]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.16-03.19.54:186][  1]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.16-03.19.54:186][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.16-03.19.54:186][  1]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.03.16-03.19.54:187][  1]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.16-03.19.54:187][  1]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.03.16-03.19.54:187][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.16-03.19.54:200][  1]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.16-03.19.54:204][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.16-03.19.54:229][  1]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.16-03.19.54:232][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.16-03.19.54:235][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.03.16-03.19.54:256][  2]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.03.16-03.20.02:937][518]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.03.16-03.20.17:607][384]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.03.16-03.20.18:698][447]Cmd: TRANSACTION UNDO
+[2020.03.16-03.20.18:698][447]LogEditorTransaction: Undo Rotate Actors
+[2020.03.16-03.20.28:370][  8]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.03.16-03.20.29:134][ 52]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.03.16-03.20.33:884][234]LogSlate: Window 'Save Level As' being destroyed
+[2020.03.16-03.21.45:544][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.03.16-03.21.45:546][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../GitHub/Building-Escape/BuildingEscape/Saved/Autosaves/Temp/Untitled_1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.03.16-03.21.45:574][493]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/Untitled_1_Auto266B995BD42CD5E4AF5B4719845ED8CCF.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Saved/Autosaves/Temp/Untitled_1_Auto2.umap'
+[2020.03.16-03.21.45:583][493]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.072
+[2020.03.16-03.21.45:583][493]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.072
+[2020.03.16-03.21.52:094][513]LogSlate: Window 'Project Settings' being destroyed
+[2020.03.16-03.21.52:097][513]LogSlate: Window 'Project Settings' being destroyed
+[2020.03.16-03.21.54:381][598]Candidate modules for hot reload:
+[2020.03.16-03.21.54:381][598]  BuildingEscape
+[2020.03.16-03.21.54:381][598]Launching UnrealBuildTool... [D:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,9794 Win64 Development -TargetType=Editor -Project="D:/GitHub/Building-Escape/BuildingEscape/BuildingEscape.uproject" "D:/GitHub/Building-Escape/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.03.16-03.21.54:385][598]Warning: Starting HotReload took  0.0s.
+[2020.03.16-03.21.58:090][803]CompilerResultsLog: New page: Compilation - Mar 15, 2020, 7:21:58 PM
+[2020.03.16-03.21.58:090][803]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\GitHub\Building-Escape).
+[2020.03.16-03.21.58:090][803]CompilerResultsLog: Building BuildingEscapeEditor...
+[2020.03.16-03.21.58:090][803]CompilerResultsLog: Using Visual Studio 2019 14.24.28315 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.03.16-03.21.58:090][803]CompilerResultsLog: Building 4 actions with 8 processes...
+[2020.03.16-03.21.58:090][803]CompilerResultsLog:   [1/4] WorldPosition.cpp
+[2020.03.16-03.21.58:090][803]CompilerResultsLog:   [2/4] UE4Editor-BuildingEscape-9794.lib
+[2020.03.16-03.21.58:090][803]CompilerResultsLog:      Creating library D:\GitHub\Building-Escape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-9794.lib and object D:\GitHub\Building-Escape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-9794.exp
+[2020.03.16-03.21.58:091][803]CompilerResultsLog:   [3/4] UE4Editor-BuildingEscape-9794.dll
+[2020.03.16-03.21.58:091][803]CompilerResultsLog:      Creating library D:\GitHub\Building-Escape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-9794.suppressed.lib and object D:\GitHub\Building-Escape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-9794.suppressed.exp
+[2020.03.16-03.21.58:091][803]CompilerResultsLog:   [4/4] BuildingEscapeEditor.target
+[2020.03.16-03.21.58:091][803]CompilerResultsLog: Total time in Parallel executor: 2.06 seconds
+[2020.03.16-03.21.58:091][803]CompilerResultsLog: Total execution time: 3.53 seconds
+[2020.03.16-03.21.58:091][803]LogMainFrame: MainFrame: Module compiling took 3.721 seconds
+[2020.03.16-03.21.58:118][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.03.16-03.21.58:145][803]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2020.03.16-03.21.58:148][803]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.03.16-03.21.58:215][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.03.16-03.21.58:232][803]LogContentBrowser: Native class hierarchy populated in 0.0107 seconds. Added 3019 classes and 722 folders.
+[2020.03.16-03.21.58:232][803]Display: HotReload took  3.9s.
