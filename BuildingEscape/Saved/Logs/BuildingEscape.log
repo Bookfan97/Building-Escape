@@ -3708,3 +3708,1348 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.17-01.27.38:882][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.03.17-01.27.38:886][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
 [2020.03.17-01.27.38:914][629]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2020.03.17-01.29.11:487][235]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.17-01.29.11:504][235]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.17-01.29.11:505][235]PIE: New page: PIE session: BuildingEscape (Mar 16, 2020, 5:29:11 PM)
+[2020.03.17-01.29.11:505][235]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BuildingEscape
+[2020.03.17-01.29.11:514][235]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008904s)
+[2020.03.17-01.29.11:515][235]LogAIModule: Creating AISystem for world BuildingEscape
+[2020.03.17-01.29.11:515][235]LogPlayLevel: PIE: World Init took: (0.001494s)
+[2020.03.17-01.29.11:515][235]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BuildingEscape.BuildingEscape to /Game/UEDPIE_0_BuildingEscape.BuildingEscape (0.010669s)
+[2020.03.17-01.29.11:544][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.03.17-01.29.11:545][235]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.17-01.29.11:545][235]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.17-01.29.11:545][235]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.17-01.29.11:545][235]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.17-01.29.11:546][235]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.17-01.29.11:546][235]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.17-01.29.11:546][235]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.17-01.29.11:546][235]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.17-01.29.11:546][235]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.17-01.29.11:546][235]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.17-01.29.11:578][235]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.17-01.29.11:578][235]LogAudioMixer: Display: Name: Headphones (Realtek USB Audio)
+[2020.03.17-01.29.11:578][235]LogAudioMixer: Display: Is Default: Yes
+[2020.03.17-01.29.11:578][235]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.17-01.29.11:578][235]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.17-01.29.11:578][235]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.17-01.29.11:578][235]LogAudioMixer: Display: Channel Order:
+[2020.03.17-01.29.11:578][235]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.17-01.29.11:579][235]LogAudioMixer: Display: 1: FrontRight
+[2020.03.17-01.29.11:595][235]LogAudioMixer: Display: Using Audio Device Headphones (Realtek USB Audio)
+[2020.03.17-01.29.11:597][235]LogInit: FAudioDevice initialized.
+[2020.03.17-01.29.11:618][235]LogLoad: Game class is 'GameModeBase'
+[2020.03.17-01.29.11:620][235]LogWorld: Bringing World /Game/UEDPIE_0_BuildingEscape.BuildingEscape up for play (max tick rate 60) at 2020.03.16-21.29.11
+[2020.03.17-01.29.11:620][235]LogWorld: Bringing up level for play took: 0.000880
+[2020.03.17-01.29.11:621][235]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2020.03.17-01.29.11:623][235]LogTemp: Warning: Cube_2 position in world is: X=40.000 Y=-430.000 Z=110.000
+[2020.03.17-01.29.11:623][235]PIE: Play in editor start time for /Game/UEDPIE_0_BuildingEscape -0.151
+[2020.03.17-01.29.13:913][363]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.17-01.29.13:913][363]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.17-01.29.13:913][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.17-01.29.13:913][363]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BuildingEscape
+[2020.03.17-01.29.13:913][363]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.17-01.29.13:913][363]LogWorld: UWorld::CleanupWorld for BuildingEscape, bSessionEnded=true, bCleanupResources=true
+[2020.03.17-01.29.13:913][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.17-01.29.13:919][363]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.17-01.29.13:923][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.17-01.29.13:948][363]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.17-01.29.13:954][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.17-01.29.13:957][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.03.17-01.29.14:021][367]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2020.03.17-01.29.18:117][610]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.03.17-01.29.53:317][674]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Models/Stone_Floor.Stone_Floor
+[2020.03.17-01.29.57:254][871]LogRenderer: Reallocating scene render targets to support 1336x920 Format 10 NumSamples 1 (Frame:95).
+[2020.03.17-01.29.58:044][910]LogSlate: Window 'Stone_Floor' being destroyed
+[2020.03.17-01.30.17:469][ 58]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Models/TexturesCom_StoneWall3_2x2_1K_albedo_Mat.TexturesCom_StoneWall3_2x2_1K_albedo_Mat
+[2020.03.17-01.30.17:474][ 58]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.30.17:576][ 58]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.30.17:596][ 58]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.30.17:616][ 58]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.03.17-01.30.17:616][ 58]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.03.17-01.30.17:617][ 58]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.03.17-01.30.17:617][ 58]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.03.17-01.30.17:626][ 58]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.17-01.30.18:646][106]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.03.17-01.30.18:697][109]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.03.17-01.30.18:846][118]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.03.17-01.30.18:880][120]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.03.17-01.30.19:111][133]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.03.17-01.30.19:378][149]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.03.17-01.30.19:510][157]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.03.17-01.30.19:751][166]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.03.17-01.30.19:945][176]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.03.17-01.30.20:122][186]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.03.17-01.30.20:215][191]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.03.17-01.30.20:216][191]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.03.17-01.30.20:216][191]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2020.03.17-01.30.20:216][191]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.03.17-01.30.20:216][191]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.03.17-01.30.20:216][191]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.17-01.30.20:216][191]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.03.17-01.30.20:216][191]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.17-01.31.04:321][804]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.31.04:343][804]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.31.04:364][804]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.03.17-01.31.04:364][804]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.03.17-01.31.04:364][804]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.03.17-01.31.04:364][804]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.03.17-01.31.04:374][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.17-01.31.05:382][864]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.03.17-01.31.05:399][865]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.03.17-01.31.05:434][867]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.03.17-01.31.05:466][869]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.03.17-01.31.05:884][894]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.03.17-01.31.05:984][900]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.03.17-01.31.06:184][912]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.03.17-01.31.06:317][920]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.03.17-01.31.06:517][932]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.03.17-01.31.06:650][940]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.03.17-01.31.06:676][941]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.03.17-01.31.06:678][941]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.03.17-01.31.06:678][941]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2020.03.17-01.31.06:678][941]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.03.17-01.31.06:678][941]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.03.17-01.31.06:678][941]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.17-01.31.06:678][941]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.03.17-01.31.06:678][941]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.17-01.31.08:540][ 52]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2020.03.17-01.31.08:558][ 54]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.03.17-01.31.08:558][ 54]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.03.17-01.31.08:558][ 54]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.03.17-01.31.08:558][ 54]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.03.17-01.31.24:268][986]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.31.24:289][986]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.31.24:310][987]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.03.17-01.31.24:310][987]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.03.17-01.31.24:310][987]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.03.17-01.31.24:310][987]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.03.17-01.31.25:272][ 45]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.03.17-01.31.25:305][ 47]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.03.17-01.31.25:321][ 48]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.03.17-01.31.25:370][ 51]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.03.17-01.31.25:755][ 74]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.03.17-01.31.25:892][ 81]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.03.17-01.31.26:086][ 93]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.03.17-01.31.26:562][121]MaterialEditorStats: Base pass shader: 121 instructions
+[2020.03.17-01.31.26:562][121]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2020.03.17-01.31.26:562][121]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2020.03.17-01.31.26:562][121]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.03.17-01.31.26:562][121]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.17-01.31.26:562][121]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.03.17-01.31.26:562][121]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.17-01.31.27:360][167]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.31.27:379][167]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.31.27:402][168]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.03.17-01.31.27:402][168]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.03.17-01.31.27:402][168]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.03.17-01.31.27:402][168]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.03.17-01.31.28:354][225]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.03.17-01.31.28:370][226]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.03.17-01.31.28:370][226]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.03.17-01.31.28:405][228]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.03.17-01.31.28:803][252]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.03.17-01.31.28:887][257]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.03.17-01.31.29:139][272]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.03.17-01.31.29:213][275]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.31.29:227][275]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.03.17-01.31.29:236][275]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.31.29:440][286]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.03.17-01.31.29:599][295]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.03.17-01.31.29:638][297]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.03.17-01.31.30:083][324]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.03.17-01.31.30:250][334]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.03.17-01.31.30:416][344]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.03.17-01.31.30:449][346]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.03.17-01.31.30:719][362]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.03.17-01.31.30:852][370]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.03.17-01.31.31:169][389]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.03.17-01.31.31:170][389]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.03.17-01.31.31:912][429]MaterialEditorStats: Base pass shader: 121 instructions
+[2020.03.17-01.31.31:912][429]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2020.03.17-01.31.31:912][429]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2020.03.17-01.31.31:913][429]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.03.17-01.31.31:913][429]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.17-01.31.31:913][429]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.03.17-01.31.31:913][429]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.17-01.31.38:138][800]LogMaterialEditor: Saving and Compiling material TexturesCom_StoneWall3_2x2_1K_albedo_Mat
+[2020.03.17-01.31.38:685][800]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.31.38:723][800]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.03.17-01.31.38:723][800]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.03.17-01.31.38:723][800]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.03.17-01.31.38:723][800]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.03.17-01.31.38:781][800]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.31.38:912][800]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.03.17-01.31.38:942][800]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.17-01.31.40:695][800]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 33
+[2020.03.17-01.31.40:695][800]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2020.03.17-01.31.40:695][800]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 31
+[2020.03.17-01.31.40:695][800]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2020.03.17-01.31.40:695][800]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 29
+[2020.03.17-01.31.40:695][800]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2020.03.17-01.31.40:695][800]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2020.03.17-01.31.40:695][800]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2020.03.17-01.31.40:695][800]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2020.03.17-01.31.40:695][800]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.03.17-01.31.40:695][800]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.03.17-01.31.40:695][800]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.03.17-01.31.40:695][800]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.03.17-01.31.40:700][800]TextureStreamingBuild: Display: Compiling optional shaders took 1.785 seconds.
+[2020.03.17-01.31.40:742][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.03.17-01.31.43:583][800]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.03.17-01.31.43:583][800]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.03.17-01.31.43:583][800]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.03.17-01.31.43:583][800]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.03.17-01.31.43:681][800]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/TexturesCom_StoneWall3_2x2_1K_al7978A3A1458F24B01C3FD7BF0DDCBE4E.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/TexturesCom_StoneWall3_2x2_1K_albedo_Mat.uasset'
+[2020.03.17-01.31.43:735][800]AssetCheck: New page: Asset Save: TexturesCom_StoneWall3_2x2_1K_albedo_Mat
+[2020.03.17-01.31.43:735][800]LogContentValidation: Display: Validating Material /Game/Models/TexturesCom_StoneWall3_2x2_1K_albedo_Mat.TexturesCom_StoneWall3_2x2_1K_albedo_Mat
+[2020.03.17-01.31.43:735][800]MaterialEditorStats: Base pass shader: 121 instructions
+[2020.03.17-01.31.43:736][800]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2020.03.17-01.31.43:736][800]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2020.03.17-01.31.43:736][800]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.03.17-01.31.43:736][800]MaterialEditorStats: Texture samplers: 4/16
+[2020.03.17-01.31.43:736][800]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.03.17-01.31.43:736][800]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.17-01.32.50:438][769]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.32.50:478][770]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.03.17-01.32.50:478][770]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.03.17-01.32.50:478][770]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.03.17-01.32.50:478][770]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.03.17-01.32.51:524][833]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.03.17-01.32.51:557][835]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.03.17-01.32.51:591][837]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.03.17-01.32.51:624][839]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.03.17-01.32.52:077][866]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.03.17-01.32.52:175][872]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.03.17-01.32.52:554][892]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.03.17-01.32.52:977][917]MaterialEditorStats: Base pass shader: 121 instructions
+[2020.03.17-01.32.52:977][917]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2020.03.17-01.32.52:977][917]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2020.03.17-01.32.52:977][917]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.03.17-01.32.52:977][917]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.17-01.32.52:977][917]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.03.17-01.32.52:977][917]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.17-01.33.00:922][377]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.33.00:962][378]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.03.17-01.33.00:962][378]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.03.17-01.33.00:962][378]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.03.17-01.33.00:962][378]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.03.17-01.33.01:822][430]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.03.17-01.33.01:837][431]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.03.17-01.33.01:870][433]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.03.17-01.33.01:904][435]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.03.17-01.33.02:287][458]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.03.17-01.33.02:363][460]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.03.17-01.33.02:589][474]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.03.17-01.33.08:073][801]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.33.08:127][802]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.03.17-01.33.08:127][802]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.03.17-01.33.08:127][802]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.03.17-01.33.08:127][802]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.03.17-01.33.08:939][851]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.03.17-01.33.08:972][853]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.03.17-01.33.09:037][857]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.03.17-01.33.09:053][858]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.03.17-01.33.09:570][886]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.03.17-01.33.09:686][893]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.03.17-01.33.09:903][906]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.03.17-01.33.10:329][931]MaterialEditorStats: Base pass shader: 121 instructions
+[2020.03.17-01.33.10:329][931]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2020.03.17-01.33.10:329][931]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2020.03.17-01.33.10:329][931]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.03.17-01.33.10:329][931]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.17-01.33.10:330][931]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.03.17-01.33.10:330][931]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.17-01.33.17:508][361]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_1, compiling. 
+[2020.03.17-01.33.17:520][362]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.03.17-01.33.17:520][362]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.03.17-01.33.17:520][362]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.03.17-01.33.17:520][362]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.03.17-01.33.31:023][165]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.33.31:078][166]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.03.17-01.33.31:078][166]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.03.17-01.33.31:078][166]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.03.17-01.33.31:078][166]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.03.17-01.33.32:746][261]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.03.17-01.33.32:905][270]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.03.17-01.33.32:925][271]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.03.17-01.33.32:926][271]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.03.17-01.33.33:513][306]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.03.17-01.33.33:579][310]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.03.17-01.33.33:861][327]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.03.17-01.33.34:354][356]MaterialEditorStats: Base pass shader: 121 instructions
+[2020.03.17-01.33.34:354][356]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2020.03.17-01.33.34:354][356]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2020.03.17-01.33.34:354][356]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.03.17-01.33.34:354][356]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.17-01.33.34:354][356]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.03.17-01.33.34:354][356]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.17-01.33.42:984][869]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.33.43:006][869]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.03.17-01.33.43:006][869]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.03.17-01.33.43:006][869]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.03.17-01.33.43:006][869]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.03.17-01.33.43:006][869]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.17-01.33.44:321][930]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.03.17-01.33.44:352][932]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.03.17-01.33.44:400][935]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.03.17-01.33.44:432][937]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.03.17-01.33.44:798][958]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.03.17-01.33.44:937][966]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.03.17-01.33.45:239][982]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.03.17-01.33.45:363][987]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.03.17-01.33.45:656][  5]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.03.17-01.33.45:804][ 14]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.03.17-01.33.45:852][ 16]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.03.17-01.33.45:853][ 16]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.03.17-01.33.45:853][ 16]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2020.03.17-01.33.45:853][ 16]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.03.17-01.33.45:853][ 16]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.03.17-01.33.45:853][ 16]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.17-01.33.45:853][ 16]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.03.17-01.33.47:094][ 87]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.33.47:115][ 88]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.03.17-01.33.47:115][ 88]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.03.17-01.33.47:115][ 88]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.03.17-01.33.47:115][ 88]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.03.17-01.33.48:008][141]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.03.17-01.33.48:113][147]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.03.17-01.33.48:129][148]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.03.17-01.33.48:179][151]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.03.17-01.33.48:532][170]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.03.17-01.33.48:660][174]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.03.17-01.33.48:934][190]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.03.17-01.33.49:573][227]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.33.49:586][227]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.03.17-01.33.49:586][227]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.03.17-01.33.49:586][227]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.03.17-01.33.49:586][227]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.03.17-01.33.50:672][290]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.03.17-01.33.50:704][292]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.03.17-01.33.50:739][294]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.03.17-01.33.50:768][296]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.03.17-01.33.51:237][324]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.03.17-01.33.51:319][329]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.03.17-01.33.51:656][349]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.03.17-01.33.52:734][413]MaterialEditorStats: Base pass shader: 122 instructions
+[2020.03.17-01.33.52:734][413]MaterialEditorStats: Base pass shader with Surface Lightmap: 149 instructions
+[2020.03.17-01.33.52:734][413]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2020.03.17-01.33.52:734][413]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.03.17-01.33.52:734][413]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.17-01.33.52:734][413]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.03.17-01.33.52:734][413]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.17-01.34.17:266][880]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.34.17:283][880]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.34.17:304][881]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.03.17-01.34.17:304][881]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.03.17-01.34.17:304][881]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.03.17-01.34.17:305][881]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.03.17-01.34.18:100][928]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.34.18:132][928]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.34.18:298][937]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.03.17-01.34.18:363][941]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.03.17-01.34.18:378][942]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.03.17-01.34.18:399][943]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.03.17-01.34.19:171][989]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.03.17-01.34.19:283][995]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.03.17-01.34.19:352][999]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.03.17-01.34.19:370][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.03.17-01.34.19:704][ 20]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.03.17-01.34.19:870][ 30]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.03.17-01.34.20:071][ 42]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.03.17-01.34.20:549][ 70]MaterialEditorStats: Base pass shader: 121 instructions
+[2020.03.17-01.34.20:549][ 70]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2020.03.17-01.34.20:549][ 70]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2020.03.17-01.34.20:549][ 70]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.03.17-01.34.20:549][ 70]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.17-01.34.20:549][ 70]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.03.17-01.34.20:549][ 70]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.17-01.34.23:127][223]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.34.23:144][223]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.34.23:168][225]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.03.17-01.34.23:168][225]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.03.17-01.34.23:168][225]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.03.17-01.34.23:168][225]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.03.17-01.34.24:045][276]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.03.17-01.34.24:078][278]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.03.17-01.34.24:143][282]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.03.17-01.34.24:159][283]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.03.17-01.34.24:600][309]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.03.17-01.34.24:700][315]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.03.17-01.34.24:914][328]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.03.17-01.34.25:412][357]MaterialEditorStats: Base pass shader: 121 instructions
+[2020.03.17-01.34.25:412][357]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2020.03.17-01.34.25:412][357]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2020.03.17-01.34.25:412][357]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.03.17-01.34.25:412][357]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.17-01.34.25:412][357]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.03.17-01.34.25:413][357]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.17-01.34.29:724][613]LogMaterialEditor: Saving and Compiling material TexturesCom_StoneWall3_2x2_1K_albedo_Mat
+[2020.03.17-01.34.30:247][613]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.34.30:286][613]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.03.17-01.34.30:295][613]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.03.17-01.34.30:295][613]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.03.17-01.34.30:295][613]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.03.17-01.34.30:343][613]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.34.30:462][613]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.03.17-01.34.30:489][613]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.17-01.34.32:214][613]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 33
+[2020.03.17-01.34.32:214][613]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2020.03.17-01.34.32:214][613]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 31
+[2020.03.17-01.34.32:214][613]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2020.03.17-01.34.32:214][613]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2020.03.17-01.34.32:214][613]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 28
+[2020.03.17-01.34.32:214][613]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2020.03.17-01.34.32:214][613]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.03.17-01.34.32:214][613]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.03.17-01.34.32:215][613]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2020.03.17-01.34.32:215][613]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.03.17-01.34.32:215][613]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.03.17-01.34.32:215][613]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.03.17-01.34.32:218][613]TextureStreamingBuild: Display: Compiling optional shaders took 1.755 seconds.
+[2020.03.17-01.34.32:257][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.03.17-01.34.35:407][613]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.03.17-01.34.35:407][613]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.03.17-01.34.35:407][613]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.03.17-01.34.35:407][613]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.03.17-01.34.35:488][613]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/TexturesCom_StoneWall3_2x2_1K_alC16F720A460748AFD893C7A658DCC511.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/TexturesCom_StoneWall3_2x2_1K_albedo_Mat.uasset'
+[2020.03.17-01.34.35:532][613]AssetCheck: New page: Asset Save: TexturesCom_StoneWall3_2x2_1K_albedo_Mat
+[2020.03.17-01.34.35:532][613]LogContentValidation: Display: Validating Material /Game/Models/TexturesCom_StoneWall3_2x2_1K_albedo_Mat.TexturesCom_StoneWall3_2x2_1K_albedo_Mat
+[2020.03.17-01.34.35:533][613]MaterialEditorStats: Base pass shader: 121 instructions
+[2020.03.17-01.34.35:533][613]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2020.03.17-01.34.35:533][613]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2020.03.17-01.34.35:533][613]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.03.17-01.34.35:533][613]MaterialEditorStats: Texture samplers: 4/16
+[2020.03.17-01.34.35:533][613]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.03.17-01.34.35:533][613]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.17-01.35.33:935][724]Cmd: TRANSACTION UNDO
+[2020.03.17-01.35.33:935][724]LogEditorTransaction: Undo Edit Texture Scale
+[2020.03.17-01.35.33:951][724]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.35.33:974][724]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.03.17-01.35.33:974][724]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.03.17-01.35.33:974][724]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.03.17-01.35.33:974][724]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.03.17-01.35.35:178][773]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.03.17-01.35.35:210][775]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.03.17-01.35.35:226][776]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.03.17-01.35.35:259][778]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.03.17-01.35.35:817][808]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.03.17-01.35.35:886][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.03.17-01.35.36:268][833]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.03.17-01.35.36:896][869]MaterialEditorStats: Base pass shader: 121 instructions
+[2020.03.17-01.35.36:896][869]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2020.03.17-01.35.36:896][869]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2020.03.17-01.35.36:896][869]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.03.17-01.35.36:896][869]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.17-01.35.36:896][869]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.03.17-01.35.36:896][869]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.17-01.36.07:889][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Stone_Floor" FILE="../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/Stone_Floor.uasset" SILENT=true
+[2020.03.17-01.36.07:925][711]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.03.17-01.36.07:949][711]TextureStreamingBuild: Display: Compiling optional shaders took 0.021 seconds.
+[2020.03.17-01.36.07:978][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.03.17-01.36.08:001][711]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/Stone_FloorF547E45C47D7513DEF468FA8C2E69663.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/Stone_Floor.uasset'
+[2020.03.17-01.36.08:025][711]AssetCheck: New page: Asset Save: Stone_Floor
+[2020.03.17-01.36.08:025][711]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Models/Stone_Floor.Stone_Floor
+[2020.03.17-01.36.11:624][912]LogSlate: Window 'Stone_Floor' being destroyed
+[2020.03.17-01.36.39:929][606]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.36.39:967][607]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.03.17-01.36.39:967][607]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.03.17-01.36.39:967][607]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.03.17-01.36.39:967][607]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.03.17-01.36.41:046][672]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.03.17-01.36.41:078][674]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.03.17-01.36.41:078][674]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.03.17-01.36.41:111][676]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.03.17-01.36.41:512][700]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.03.17-01.36.41:596][705]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.03.17-01.36.41:847][720]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.03.17-01.36.42:305][747]MaterialEditorStats: Base pass shader: 121 instructions
+[2020.03.17-01.36.42:305][747]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2020.03.17-01.36.42:305][747]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2020.03.17-01.36.42:305][747]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.03.17-01.36.42:305][747]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.17-01.36.42:305][747]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.03.17-01.36.42:305][747]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.17-01.37.01:638][900]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.37.01:656][900]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.37.01:678][901]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.03.17-01.37.01:678][901]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.03.17-01.37.01:678][901]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.03.17-01.37.01:678][901]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.03.17-01.37.02:619][956]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.03.17-01.37.02:663][959]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.03.17-01.37.02:748][964]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.03.17-01.37.02:783][966]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.03.17-01.37.03:212][991]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.03.17-01.37.03:359][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.03.17-01.37.03:715][ 19]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.03.17-01.37.04:265][ 50]MaterialEditorStats: Base pass shader: 121 instructions
+[2020.03.17-01.37.04:265][ 50]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2020.03.17-01.37.04:265][ 50]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2020.03.17-01.37.04:265][ 50]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.03.17-01.37.04:265][ 50]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.17-01.37.04:265][ 50]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.03.17-01.37.04:265][ 50]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.17-01.37.12:176][524]LogMaterialEditor: Saving and Compiling material TexturesCom_StoneWall3_2x2_1K_albedo_Mat
+[2020.03.17-01.37.12:710][524]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.37.12:760][524]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.03.17-01.37.12:760][524]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.03.17-01.37.12:760][524]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.03.17-01.37.12:760][524]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.03.17-01.37.12:807][524]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.37.12:838][524]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.37.12:884][524]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.37.13:012][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.03.17-01.37.13:037][524]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.17-01.37.15:495][524]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 37
+[2020.03.17-01.37.15:495][524]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 36
+[2020.03.17-01.37.15:495][524]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 35
+[2020.03.17-01.37.15:496][524]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2020.03.17-01.37.15:496][524]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 33
+[2020.03.17-01.37.15:496][524]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2020.03.17-01.37.15:496][524]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 31
+[2020.03.17-01.37.15:496][524]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2020.03.17-01.37.15:496][524]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2020.03.17-01.37.15:496][524]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 28
+[2020.03.17-01.37.15:496][524]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2020.03.17-01.37.15:496][524]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.03.17-01.37.15:496][524]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.03.17-01.37.15:496][524]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2020.03.17-01.37.15:496][524]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.03.17-01.37.15:496][524]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.03.17-01.37.15:496][524]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.03.17-01.37.15:500][524]TextureStreamingBuild: Display: Compiling optional shaders took 2.487 seconds.
+[2020.03.17-01.37.15:537][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.03.17-01.37.18:576][524]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.03.17-01.37.18:576][524]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.03.17-01.37.18:576][524]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.03.17-01.37.18:576][524]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.03.17-01.37.18:665][524]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/TexturesCom_StoneWall3_2x2_1K_alFBA40B934D16879A5027139F7F9310AD.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/TexturesCom_StoneWall3_2x2_1K_albedo_Mat.uasset'
+[2020.03.17-01.37.18:723][524]AssetCheck: New page: Asset Save: TexturesCom_StoneWall3_2x2_1K_albedo_Mat
+[2020.03.17-01.37.18:723][524]LogContentValidation: Display: Validating Material /Game/Models/TexturesCom_StoneWall3_2x2_1K_albedo_Mat.TexturesCom_StoneWall3_2x2_1K_albedo_Mat
+[2020.03.17-01.37.18:724][524]MaterialEditorStats: Base pass shader: 121 instructions
+[2020.03.17-01.37.18:724][524]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2020.03.17-01.37.18:724][524]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2020.03.17-01.37.18:724][524]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.03.17-01.37.18:724][524]MaterialEditorStats: Texture samplers: 4/16
+[2020.03.17-01.37.18:724][524]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.03.17-01.37.18:724][524]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.17-01.37.39:428][758]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.37.39:474][759]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.03.17-01.37.39:474][759]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.03.17-01.37.39:474][759]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.03.17-01.37.39:474][759]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.03.17-01.37.40:525][822]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.03.17-01.37.40:590][826]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.03.17-01.37.40:608][827]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.03.17-01.37.40:625][828]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.03.17-01.37.41:074][855]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.03.17-01.37.41:140][859]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.03.17-01.37.41:375][873]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.03.17-01.37.42:051][913]MaterialEditorStats: Base pass shader: 121 instructions
+[2020.03.17-01.37.42:051][913]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2020.03.17-01.37.42:051][913]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2020.03.17-01.37.42:051][913]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.03.17-01.37.42:051][913]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.17-01.37.42:051][913]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.03.17-01.37.42:051][913]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.17-01.37.44:795][ 72]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.37.44:817][ 73]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.03.17-01.37.44:817][ 73]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.03.17-01.37.44:818][ 73]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.03.17-01.37.44:818][ 73]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.03.17-01.37.45:872][134]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.03.17-01.37.45:889][135]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.03.17-01.37.45:925][136]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.03.17-01.37.45:967][136]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.03.17-01.37.46:347][160]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.03.17-01.37.46:411][164]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.03.17-01.37.46:630][177]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.03.17-01.37.47:045][200]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.37.47:068][200]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.03.17-01.37.47:068][200]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.03.17-01.37.47:125][204]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.03.17-01.37.47:125][204]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.03.17-01.37.47:951][253]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.03.17-01.37.47:984][255]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.03.17-01.37.48:050][259]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.03.17-01.37.48:074][260]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.03.17-01.37.48:450][283]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.03.17-01.37.48:549][289]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.03.17-01.37.48:748][300]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.03.17-01.37.49:273][331]MaterialEditorStats: Base pass shader: 121 instructions
+[2020.03.17-01.37.49:273][331]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2020.03.17-01.37.49:273][331]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2020.03.17-01.37.49:273][331]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.03.17-01.37.49:273][331]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.17-01.37.49:273][331]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.03.17-01.37.49:273][331]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.17-01.37.51:890][485]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.37.51:916][486]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.03.17-01.37.51:916][486]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.03.17-01.37.51:916][486]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.03.17-01.37.51:916][486]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.03.17-01.37.52:800][538]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.03.17-01.37.52:816][539]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.03.17-01.37.52:846][541]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.03.17-01.37.52:864][542]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.03.17-01.37.53:319][569]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.03.17-01.37.53:402][574]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.03.17-01.37.53:617][587]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.03.17-01.37.55:147][678]MaterialEditorStats: Base pass shader: 121 instructions
+[2020.03.17-01.37.55:147][678]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2020.03.17-01.37.55:147][678]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2020.03.17-01.37.55:147][678]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.03.17-01.37.55:147][678]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.17-01.37.55:147][678]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.03.17-01.37.55:147][678]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.17-01.38.01:656][ 68]LogMaterialEditor: Saving and Compiling material TexturesCom_StoneWall3_2x2_1K_albedo_Mat
+[2020.03.17-01.38.02:206][ 68]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.38.02:268][ 68]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.03.17-01.38.02:268][ 68]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.03.17-01.38.02:268][ 68]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.03.17-01.38.02:268][ 68]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.03.17-01.38.02:287][ 68]LogMaterial: Display: Missing cached shader map for material TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.38.02:405][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.03.17-01.38.02:424][ 68]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.17-01.38.04:218][ 68]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 33
+[2020.03.17-01.38.04:218][ 68]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2020.03.17-01.38.04:218][ 68]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 31
+[2020.03.17-01.38.04:218][ 68]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2020.03.17-01.38.04:218][ 68]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 29
+[2020.03.17-01.38.04:218][ 68]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2020.03.17-01.38.04:218][ 68]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2020.03.17-01.38.04:218][ 68]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2020.03.17-01.38.04:218][ 68]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2020.03.17-01.38.04:218][ 68]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.03.17-01.38.04:218][ 68]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.03.17-01.38.04:218][ 68]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.03.17-01.38.04:218][ 68]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.03.17-01.38.04:223][ 68]TextureStreamingBuild: Display: Compiling optional shaders took 1.817 seconds.
+[2020.03.17-01.38.04:263][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.03.17-01.38.07:155][ 68]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.03.17-01.38.07:155][ 68]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.03.17-01.38.07:155][ 68]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.03.17-01.38.07:155][ 68]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.03.17-01.38.07:227][ 68]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/TexturesCom_StoneWall3_2x2_1K_al8651FCE44F482ADA5098E5A5675F98C4.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/TexturesCom_StoneWall3_2x2_1K_albedo_Mat.uasset'
+[2020.03.17-01.38.07:277][ 68]AssetCheck: New page: Asset Save: TexturesCom_StoneWall3_2x2_1K_albedo_Mat
+[2020.03.17-01.38.07:277][ 68]LogContentValidation: Display: Validating Material /Game/Models/TexturesCom_StoneWall3_2x2_1K_albedo_Mat.TexturesCom_StoneWall3_2x2_1K_albedo_Mat
+[2020.03.17-01.38.07:278][ 68]MaterialEditorStats: Base pass shader: 121 instructions
+[2020.03.17-01.38.07:278][ 68]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2020.03.17-01.38.07:278][ 68]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2020.03.17-01.38.07:278][ 68]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.03.17-01.38.07:278][ 68]MaterialEditorStats: Texture samplers: 4/16
+[2020.03.17-01.38.07:278][ 68]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.03.17-01.38.07:278][ 68]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.17-01.38.30:561][455]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.17-01.38.30:580][455]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.17-01.38.30:580][455]PIE: New page: PIE session: BuildingEscape (Mar 16, 2020, 5:38:30 PM)
+[2020.03.17-01.38.30:580][455]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BuildingEscape
+[2020.03.17-01.38.30:588][455]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007548s)
+[2020.03.17-01.38.30:590][455]LogAIModule: Creating AISystem for world BuildingEscape
+[2020.03.17-01.38.30:590][455]LogPlayLevel: PIE: World Init took: (0.001747s)
+[2020.03.17-01.38.30:590][455]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BuildingEscape.BuildingEscape to /Game/UEDPIE_0_BuildingEscape.BuildingEscape (0.009609s)
+[2020.03.17-01.38.30:621][455]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.03.17-01.38.30:623][455]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.17-01.38.30:623][455]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.17-01.38.30:623][455]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.17-01.38.30:623][455]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.17-01.38.30:623][455]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.17-01.38.30:623][455]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.17-01.38.30:623][455]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.17-01.38.30:623][455]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.17-01.38.30:624][455]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.17-01.38.30:624][455]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.17-01.38.30:655][455]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.17-01.38.30:655][455]LogAudioMixer: Display: Name: Headphones (Realtek USB Audio)
+[2020.03.17-01.38.30:655][455]LogAudioMixer: Display: Is Default: Yes
+[2020.03.17-01.38.30:655][455]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.17-01.38.30:655][455]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.17-01.38.30:655][455]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.17-01.38.30:655][455]LogAudioMixer: Display: Channel Order:
+[2020.03.17-01.38.30:655][455]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.17-01.38.30:655][455]LogAudioMixer: Display: 1: FrontRight
+[2020.03.17-01.38.30:674][455]LogAudioMixer: Display: Using Audio Device Headphones (Realtek USB Audio)
+[2020.03.17-01.38.30:677][455]LogInit: FAudioDevice initialized.
+[2020.03.17-01.38.30:690][455]LogLoad: Game class is 'GameModeBase'
+[2020.03.17-01.38.30:692][455]LogWorld: Bringing World /Game/UEDPIE_0_BuildingEscape.BuildingEscape up for play (max tick rate 60) at 2020.03.16-21.38.30
+[2020.03.17-01.38.30:692][455]LogWorld: Bringing up level for play took: 0.000856
+[2020.03.17-01.38.30:693][455]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2020.03.17-01.38.30:695][455]LogTemp: Warning: Cube_2 position in world is: X=40.000 Y=-430.000 Z=110.000
+[2020.03.17-01.38.30:695][455]PIE: Play in editor start time for /Game/UEDPIE_0_BuildingEscape 0.921
+[2020.03.17-01.38.44:700][287]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.17-01.38.44:700][287]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.17-01.38.44:700][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.17-01.38.44:700][287]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BuildingEscape
+[2020.03.17-01.38.44:701][287]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.17-01.38.44:701][287]LogWorld: UWorld::CleanupWorld for BuildingEscape, bSessionEnded=true, bCleanupResources=true
+[2020.03.17-01.38.44:701][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.17-01.38.44:709][287]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.17-01.38.44:712][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.17-01.38.44:741][287]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.17-01.38.44:745][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.17-01.38.44:748][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.03.17-01.38.44:809][289]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2020.03.17-01.38.48:405][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Stone_Floor" FILE="../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/Stone_Floor.uasset" SILENT=true
+[2020.03.17-01.38.48:434][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.03.17-01.38.48:449][498]TextureStreamingBuild: Display: Compiling optional shaders took 0.014 seconds.
+[2020.03.17-01.38.48:478][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.03.17-01.38.48:510][498]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/Stone_Floor2BCF18404A00B8D5F341318A6AEC033B.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/Stone_Floor.uasset'
+[2020.03.17-01.38.48:540][498]AssetCheck: New page: Asset Save: Stone_Floor
+[2020.03.17-01.38.48:540][498]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Models/Stone_Floor.Stone_Floor
+[2020.03.17-01.39.15:745][126]Cmd: STAT FPS
+[2020.03.17-01.39.23:579][593]Cmd: STAT FPS
+[2020.03.17-01.40.10:754][415]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.17-01.40.10:771][415]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.17-01.40.10:771][415]PIE: New page: PIE session: BuildingEscape (Mar 16, 2020, 5:40:10 PM)
+[2020.03.17-01.40.10:771][415]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BuildingEscape
+[2020.03.17-01.40.10:780][415]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008388s)
+[2020.03.17-01.40.10:781][415]LogAIModule: Creating AISystem for world BuildingEscape
+[2020.03.17-01.40.10:781][415]LogPlayLevel: PIE: World Init took: (0.001751s)
+[2020.03.17-01.40.10:781][415]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BuildingEscape.BuildingEscape to /Game/UEDPIE_0_BuildingEscape.BuildingEscape (0.010378s)
+[2020.03.17-01.40.10:810][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.03.17-01.40.10:811][415]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.17-01.40.10:811][415]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.17-01.40.10:811][415]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.17-01.40.10:811][415]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.17-01.40.10:811][415]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.17-01.40.10:811][415]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.17-01.40.10:811][415]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.17-01.40.10:811][415]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.17-01.40.10:811][415]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.17-01.40.10:811][415]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.17-01.40.10:841][415]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.17-01.40.10:841][415]LogAudioMixer: Display: Name: Headphones (Realtek USB Audio)
+[2020.03.17-01.40.10:841][415]LogAudioMixer: Display: Is Default: Yes
+[2020.03.17-01.40.10:841][415]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.17-01.40.10:841][415]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.17-01.40.10:841][415]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.17-01.40.10:841][415]LogAudioMixer: Display: Channel Order:
+[2020.03.17-01.40.10:841][415]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.17-01.40.10:841][415]LogAudioMixer: Display: 1: FrontRight
+[2020.03.17-01.40.10:857][415]LogAudioMixer: Display: Using Audio Device Headphones (Realtek USB Audio)
+[2020.03.17-01.40.10:859][415]LogInit: FAudioDevice initialized.
+[2020.03.17-01.40.10:867][415]LogLoad: Game class is 'GameModeBase'
+[2020.03.17-01.40.10:868][415]LogWorld: Bringing World /Game/UEDPIE_0_BuildingEscape.BuildingEscape up for play (max tick rate 60) at 2020.03.16-21.40.10
+[2020.03.17-01.40.10:868][415]LogWorld: Bringing up level for play took: 0.000748
+[2020.03.17-01.40.10:869][415]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2020.03.17-01.40.10:872][415]LogTemp: Warning: Cube_2 position in world is: X=40.000 Y=-430.000 Z=110.000
+[2020.03.17-01.40.10:872][415]PIE: Play in editor start time for /Game/UEDPIE_0_BuildingEscape 1.098
+[2020.03.17-01.40.36:206][932]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.17-01.40.36:225][932]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.17-01.40.36:245][932]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.17-01.40.36:245][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.17-01.40.36:245][932]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BuildingEscape
+[2020.03.17-01.40.36:245][932]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.17-01.40.36:246][932]LogWorld: UWorld::CleanupWorld for BuildingEscape, bSessionEnded=true, bCleanupResources=true
+[2020.03.17-01.40.36:246][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.17-01.40.36:255][932]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.17-01.40.36:259][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.17-01.40.36:286][932]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.17-01.40.36:290][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.17-01.40.36:293][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.03.17-01.40.36:316][933]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2020.03.17-01.41.19:434][742]MapCheck: New page: Map Check
+[2020.03.17-01.41.19:462][742]Cmd: MAP REBUILD ALLVISIBLE
+[2020.03.17-01.41.19:463][742]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.03.17-01.41.19:771][742]LogWorld: UWorld::CleanupWorld for BuildingEscape, bSessionEnded=true, bCleanupResources=false
+[2020.03.17-01.41.19:832][742]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.03.17-01.41.19:861][742]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.17-01.41.19:881][742]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.03.17-01.41.19:881][742]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.03.17-01.41.19:881][742]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.17-01.41.19:930][742]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.03.17-01.41.19:930][742]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.03.17-01.41.19:930][742]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.17-01.41.20:037][742]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2020.03.17-01.41.23:568][742]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 40
+[2020.03.17-01.41.23:568][742]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 39
+[2020.03.17-01.41.23:568][742]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 38
+[2020.03.17-01.41.23:568][742]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 37
+[2020.03.17-01.41.23:568][742]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2020.03.17-01.41.23:568][742]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2020.03.17-01.41.23:568][742]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 34
+[2020.03.17-01.41.23:568][742]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2020.03.17-01.41.23:568][742]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2020.03.17-01.41.23:568][742]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.03.17-01.41.23:568][742]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 30
+[2020.03.17-01.41.23:568][742]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 29
+[2020.03.17-01.41.23:568][742]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2020.03.17-01.41.23:568][742]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2020.03.17-01.41.23:568][742]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2020.03.17-01.41.23:568][742]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.03.17-01.41.23:568][742]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2020.03.17-01.41.23:568][742]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2020.03.17-01.41.23:568][742]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.03.17-01.41.23:568][742]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2020.03.17-01.41.23:568][742]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2020.03.17-01.41.23:568][742]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2020.03.17-01.41.23:568][742]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2020.03.17-01.41.23:568][742]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.03.17-01.41.23:568][742]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.03.17-01.41.23:568][742]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.03.17-01.41.23:568][742]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.03.17-01.41.23:568][742]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.03.17-01.41.23:568][742]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.03.17-01.41.23:568][742]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.03.17-01.41.23:568][742]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.03.17-01.41.23:568][742]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.03.17-01.41.23:569][742]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.03.17-01.41.23:569][742]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.03.17-01.41.23:569][742]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.03.17-01.41.23:569][742]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.03.17-01.41.23:569][742]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.03.17-01.41.23:569][742]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.03.17-01.41.23:569][742]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.03.17-01.41.23:569][742]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.03.17-01.41.23:569][742]TextureStreamingBuild: Display: Compiling optional shaders took 3.735 seconds.
+[2020.03.17-01.41.23:573][742]LogLevel: Display: Export Material TexCoord Scales took 0.005 seconds.
+[2020.03.17-01.41.23:576][742]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2020.03.17-01.41.23:600][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.03.17-01.41.23:603][742]LightingResults: New page: Lighting Build - Mar 16, 2020, 5:41:23 PM
+[2020.03.17-01.41.23:611][742]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.17-01.41.23:616][742]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.17-01.41.23:616][742]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.17-01.41.23:618][742]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.17-01.41.23:618][742]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15228
+[2020.03.17-01.41.28:171][742]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.03.17-01.41.28:172][742]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.17-01.41.28:172][742]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.17-01.41.28:172][742]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.17-01.41.28:172][742]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.17-01.41.28:172][742]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.17-01.41.28:351][742]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.03.17-01.41.28:351][742]MapCheck: New page: BuildingEscape - Mar 16, 2020, 5:41:28 PM
+[2020.03.17-01.41.28:351][742]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.33ms to complete.
+[2020.03.17-01.41.28:354][742]LogEditorBuildUtils: Build time 0:08
+[2020.03.17-01.41.28:388][742]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Stone_Floor, compiling. 
+[2020.03.17-01.41.28:403][742]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.03.17-01.41.28:403][742]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.03.17-01.41.28:403][742]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Stone_Floor, compiling. 
+[2020.03.17-01.41.28:468][742]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.03.17-01.41.28:468][742]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.03.17-01.41.28:628][744]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.41.28:653][744]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer TexturesCom_StoneWall3_2x2_1K_albedo_Mat, compiling. 
+[2020.03.17-01.41.28:747][745]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Wall, compiling. 
+[2020.03.17-01.41.28:774][745]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Wall, compiling. 
+[2020.03.17-01.41.30:037][747]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.03.17-01.41.30:037][747]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.03.17-01.41.30:037][747]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.03.17-01.41.30:037][747]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.03.17-01.41.30:037][747]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.03.17-01.41.30:483][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.03.17-01.41.31:348][761]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.03.17-01.41.32:499][813]Job is a success!
+[2020.03.17-01.41.32:706][814]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2020.03.17-01.41.32:706][814]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.03.17-01.41.32:706][814]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2020.03.17-01.41.32:706][814]LogVolumetricLightmapImport:      Bricks at depth
+[2020.03.17-01.41.32:706][814]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2020.03.17-01.41.32:706][814]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2020.03.17-01.41.32:706][814]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2020.03.17-01.41.32:706][814]LogVolumetricLightmapImport:      Bricks in each level
+[2020.03.17-01.41.32:706][814]LogVolumetricLightmapImport:          BuildingEscape 			 10 bricks 	 100.0% (Persistent Level)
+[2020.03.17-01.41.32:836][814]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2020.03.17-01.41.32:836][814]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2020.03.17-01.41.32:836][814]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2020.03.17-01.41.32:836][814]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2020.03.17-01.41.32:836][814]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2020.03.17-01.41.32:836][814]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2020.03.17-01.41.32:836][814]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 32X32)
+[2020.03.17-01.41.32:836][814]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (BGRA8, 256X128)
+[2020.03.17-01.41.32:836][814]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (BGRA8, 128X256)
+[2020.03.17-01.41.32:836][814]LogStaticLightingSystem: BuildingEscape_BuiltData storing lightmap data for 9 meshes in 3 LightmapResourceClusters (3.0 Meshes per cluster).
+[2020.03.17-01.41.32:870][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.03.17-01.41.32:901][814]Lightmass on NOAHSLAPTOP: 1.57 sec total, 191 ms importing, 4 ms setup, 108 ms photons, 1.21 sec processing, 0 ms extra exporting [71/71 mappings]. Threads: 8.48 sec total, 1.73 sec processing.
+[2020.03.17-01.41.32:971][814]LogStaticLightingSystem: Illumination: 9.27 sec (71 ms encoding lightmaps, 32 ms encoding shadowmaps)
+[2020.03.17-01.41.32:971][814]LogStaticLightingSystem: Lightmap texture memory:  0.6 MB (0.1 MB streaming, 0.5 MB non-streaming), 6 textures
+[2020.03.17-01.41.32:971][814]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.2 MB streaming, 0.2 MB non-streaming), 3 textures
+[2020.03.17-01.41.34:194][814]DumpUnbuiltLightIteractions
+[2020.03.17-01.41.34:194][814]Lights with unbuilt interactions: 0
+[2020.03.17-01.41.34:194][814]
+[2020.03.17-01.41.34:194][814]Primitives with unbuilt interactions: 0
+[2020.03.17-01.41.34:401][815]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.17-01.41.34:401][815]MapCheck: New page: BuildingEscape - Mar 16, 2020, 5:41:34 PM
+[2020.03.17-01.41.34:402][815]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.328ms to complete.
+[2020.03.17-01.42.14:469][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/wood_Mat" FILE="../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/wood_Mat.uasset" SILENT=true
+[2020.03.17-01.42.14:495][176]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/wood_MatBB7FC4B94F1428233B9D74A9EC349355.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/wood_Mat.uasset'
+[2020.03.17-01.42.14:496][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Brass" FILE="../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/Brass.uasset" SILENT=true
+[2020.03.17-01.42.14:515][176]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/Brass753E2A59442B1E223BFBBEA7CECD4312.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/Brass.uasset'
+[2020.03.17-01.42.14:516][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Broken_Concrete" FILE="../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/Broken_Concrete.uasset" SILENT=true
+[2020.03.17-01.42.14:540][176]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/Broken_ConcreteBF88C4B64ED46EEABFF205A95DE8CB4B.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/Broken_Concrete.uasset'
+[2020.03.17-01.42.14:541][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Cone_Brush_StaticMesh" FILE="../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/Cone_Brush_StaticMesh.uasset" SILENT=true
+[2020.03.17-01.42.14:562][176]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/Cone_Brush_StaticMesh13E2B5A946414867CA6CBF8134C3121A.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/Cone_Brush_StaticMesh.uasset'
+[2020.03.17-01.42.14:569][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/DoorFrameConcrete" FILE="../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/DoorFrameConcrete.uasset" SILENT=true
+[2020.03.17-01.42.14:590][176]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/DoorFrameConcreteC64D797C4D3B7AAC23B611B076D59AB3.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/DoorFrameConcrete.uasset'
+[2020.03.17-01.42.14:591][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/SM_Door" FILE="../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/SM_Door.uasset" SILENT=true
+[2020.03.17-01.42.14:615][176]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/SM_Door6219112B4C02E1060DCA67B7F5B8840D.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/SM_Door.uasset'
+[2020.03.17-01.42.14:616][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/SM_Door_Frame" FILE="../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/SM_Door_Frame.uasset" SILENT=true
+[2020.03.17-01.42.14:639][176]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/SM_Door_Frame53909B2045E36BBC2705F9A8862DFE56.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/SM_Door_Frame.uasset'
+[2020.03.17-01.42.14:669][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Stone_Floor" FILE="../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/Stone_Floor.uasset" SILENT=true
+[2020.03.17-01.42.14:697][176]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/Stone_Floor605127CB4D45F3B6391ADCA6DC442A48.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/Stone_Floor.uasset'
+[2020.03.17-01.42.14:725][176]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/TexturesCom_CastleGate_1K_albedo905A6B7C49E2DF795102158E198DC67C.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/TexturesCom_CastleGate_1K_albedo_Mat.uasset'
+[2020.03.17-01.42.14:776][176]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/TexturesCom_StoneWall3_2x2_1K_al99FFB3304C07E07FF26E26986B84B65F.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/TexturesCom_StoneWall3_2x2_1K_albedo.uasset'
+[2020.03.17-01.42.14:795][176]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/TexturesCom_StoneWall3_2x2_1K_alF826129647A542144E8E85B176D169BF.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/TexturesCom_StoneWall3_2x2_1K_albedo_Mat.uasset'
+[2020.03.17-01.42.14:796][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Wall" FILE="../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/Wall.uasset" SILENT=true
+[2020.03.17-01.42.14:808][176]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/WallBE1EA4F5401292E2E541DA816957EA0C.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/Wall.uasset'
+[2020.03.17-01.42.14:816][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/wood" FILE="../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/wood.uasset" SILENT=true
+[2020.03.17-01.42.14:861][176]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/wood26897D084223020C1C25C0AEEE4D23AF.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/wood.uasset'
+[2020.03.17-01.42.15:028][176]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.17-01.42.15:028][176]LogContentValidation: Display: Validating Material /Game/Models/wood_Mat.wood_Mat
+[2020.03.17-01.42.15:028][176]LogContentValidation: Display: Validating Material /Game/Models/Brass.Brass
+[2020.03.17-01.42.15:028][176]LogContentValidation: Display: Validating Material /Game/Models/Broken_Concrete.Broken_Concrete
+[2020.03.17-01.42.15:028][176]LogContentValidation: Display: Validating StaticMesh /Game/Models/Cone_Brush_StaticMesh.Cone_Brush_StaticMesh
+[2020.03.17-01.42.15:028][176]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Models/DoorFrameConcrete.DoorFrameConcrete
+[2020.03.17-01.42.15:028][176]LogContentValidation: Display: Validating StaticMesh /Game/Models/SM_Door.SM_Door
+[2020.03.17-01.42.15:028][176]LogContentValidation: Display: Validating StaticMesh /Game/Models/SM_Door_Frame.SM_Door_Frame
+[2020.03.17-01.42.15:028][176]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Models/Stone_Floor.Stone_Floor
+[2020.03.17-01.42.15:028][176]LogContentValidation: Display: Validating Material /Game/Models/TexturesCom_CastleGate_1K_albedo_Mat.TexturesCom_CastleGate_1K_albedo_Mat
+[2020.03.17-01.42.15:028][176]LogContentValidation: Display: Validating Texture2D /Game/Models/TexturesCom_StoneWall3_2x2_1K_albedo.TexturesCom_StoneWall3_2x2_1K_albedo
+[2020.03.17-01.42.15:028][176]LogContentValidation: Display: Validating Material /Game/Models/TexturesCom_StoneWall3_2x2_1K_albedo_Mat.TexturesCom_StoneWall3_2x2_1K_albedo_Mat
+[2020.03.17-01.42.15:028][176]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Models/Wall.Wall
+[2020.03.17-01.42.15:028][176]LogContentValidation: Display: Validating Texture2D /Game/Models/wood.wood
+[2020.03.17-01.42.35:356][196]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.03.17-01.42.49:325][196]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.17-01.42.49:690][196]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Models/Broken_Concrete.Broken_Concrete
+[2020.03.17-01.42.49:977][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.03.17-01.42.50:003][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.03.17-01.42.50:030][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.03.17-01.42.56:200][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.03.17-01.42.56:202][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BuildingEscape" FILE="../../../../GitHub/Building-Escape/BuildingEscape/Saved/Autosaves/Game/BuildingEscape_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.03.17-01.42.56:257][544]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/BuildingEscape_Auto560A525B841F74F82F4C701B3BD34BB95.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Saved/Autosaves/Game/BuildingEscape_Auto5.umap'
+[2020.03.17-01.42.56:260][544]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BuildingEscape' took 0.090
+[2020.03.17-01.42.56:260][544]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.090
+[2020.03.17-01.42.56:260][544]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/DoorFrameConcrete] ([1] browsable assets)...
+[2020.03.17-01.42.56:287][544]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Models/DoorFrameConcrete.DoorFrameConcrete]
+[2020.03.17-01.42.56:287][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/DoorFrameConcrete]
+[2020.03.17-01.42.56:310][544]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/DoorFrameConcrete_Auto53405131148C9B72547621DB66F1FDAB3.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Saved/Autosaves/Game/Models/DoorFrameConcrete_Auto5.uasset'
+[2020.03.17-01.42.56:311][544]LogFileHelpers: Auto-saving content packages took 0.051
+[2020.03.17-01.43.04:063][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.03.17-01.43.05:885][968]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.17-01.43.06:123][968]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.03.17-01.43.06:160][968]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.03.17-01.43.06:190][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.03.17-01.43.31:463][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Materials_And_Textures/wood_Mat" FILE="../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/Materials_And_Textures/wood_Mat.uasset" SILENT=true
+[2020.03.17-01.43.31:488][426]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/wood_Mat341D5148485ABFFEF3BE4E8DA343906A.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/Materials_And_Textures/wood_Mat.uasset'
+[2020.03.17-01.43.31:490][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/wood_Mat" FILE="../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/wood_Mat.uasset" SILENT=true
+[2020.03.17-01.43.31:501][426]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/wood_Mat84F33150408B6A68C96B27B7FAAB9AD5.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/wood_Mat.uasset'
+[2020.03.17-01.43.31:531][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Materials_And_Textures/Brass" FILE="../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/Materials_And_Textures/Brass.uasset" SILENT=true
+[2020.03.17-01.43.31:551][426]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/Brass3713FFCD4E23658F5AA05EA2C2464254.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/Materials_And_Textures/Brass.uasset'
+[2020.03.17-01.43.31:600][426]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/DoorFrameConcreteB281FE1D4279A3962ED0F2897C7842A3.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/Materials_And_Textures/DoorFrameConcrete.uasset'
+[2020.03.17-01.43.31:630][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Materials_And_Textures/SM_Door" FILE="../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/Materials_And_Textures/SM_Door.uasset" SILENT=true
+[2020.03.17-01.43.31:654][426]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/SM_Door395B2B5D47F7F561BDE32286DBF6B78E.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/Materials_And_Textures/SM_Door.uasset'
+[2020.03.17-01.43.31:657][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/SM_Door" FILE="../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/SM_Door.uasset" SILENT=true
+[2020.03.17-01.43.31:667][426]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/SM_Door98381B0A423405DB5284AEA555353DB8.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/SM_Door.uasset'
+[2020.03.17-01.43.31:723][426]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/SM_Door_Frame379DBF5E4CC7B08A95B56D9A73827820.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/Materials_And_Textures/SM_Door_Frame.uasset'
+[2020.03.17-01.43.31:725][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/SM_Door_Frame" FILE="../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/SM_Door_Frame.uasset" SILENT=true
+[2020.03.17-01.43.31:737][426]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/SM_Door_Frame65AD777A4BEAA918BA69C5A78764F675.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/SM_Door_Frame.uasset'
+[2020.03.17-01.43.31:769][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Materials_And_Textures/Stone_Floor" FILE="../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/Materials_And_Textures/Stone_Floor.uasset" SILENT=true
+[2020.03.17-01.43.31:792][426]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/Stone_FloorDC9819C54840A60B5B7A33AD03B8BEB6.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/Materials_And_Textures/Stone_Floor.uasset'
+[2020.03.17-01.43.31:855][426]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/TexturesCom_CastleGate_1K_albedoADEE65B346535908A1B0FD977D59F2D2.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/Materials_And_Textures/TexturesCom_CastleGate_1K_albedo_Mat.uasset'
+[2020.03.17-01.43.31:870][426]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/TexturesCom_CastleGate_1K_albedoFED231714120B8A1ADD4809B975352FE.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/TexturesCom_CastleGate_1K_albedo_Mat.uasset'
+[2020.03.17-01.43.31:924][426]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/TexturesCom_StoneWall3_2x2_1K_al880E8D634E39BFD058ADC084DDDDC529.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/Materials_And_Textures/TexturesCom_StoneWall3_2x2_1K_albedo.uasset'
+[2020.03.17-01.43.31:978][426]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/TexturesCom_StoneWall3_2x2_1K_al1E96BF3C44CFDF0663DE658766491113.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/Materials_And_Textures/TexturesCom_StoneWall3_2x2_1K_albedo_Mat.uasset'
+[2020.03.17-01.43.32:004][426]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/TexturesCom_StoneWall3_2x2_1K_al79D01B8745FB37572CB401886459804E.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/TexturesCom_StoneWall3_2x2_1K_albedo_Mat.uasset'
+[2020.03.17-01.43.32:032][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Materials_And_Textures/Wall" FILE="../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/Materials_And_Textures/Wall.uasset" SILENT=true
+[2020.03.17-01.43.32:054][426]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/WallFD2E94F14D33DA5EB48D6EB010A163A7.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/Materials_And_Textures/Wall.uasset'
+[2020.03.17-01.43.32:057][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Wall" FILE="../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/Wall.uasset" SILENT=true
+[2020.03.17-01.43.32:076][426]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/WallE03583394A0DE75E03FFDFA969B5F553.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/Wall.uasset'
+[2020.03.17-01.43.32:085][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Materials_And_Textures/wood" FILE="../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/Materials_And_Textures/wood.uasset" SILENT=true
+[2020.03.17-01.43.32:133][426]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/woodDF1E42B944F97DC819F3F58D9F11BE18.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/Materials_And_Textures/wood.uasset'
+[2020.03.17-01.43.32:552][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.03.17-01.43.32:579][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.03.17-01.43.32:607][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.03.17-01.43.32:634][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.03.17-01.43.32:662][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.03.17-01.43.32:700][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.03.17-01.43.32:726][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.03.17-01.43.32:919][426]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.17-01.43.32:920][426]LogContentValidation: Display: Validating Material /Game/Models/Materials_And_Textures/wood_Mat.wood_Mat
+[2020.03.17-01.43.32:920][426]LogContentValidation: Display: Validating ObjectRedirector /Game/Models/wood_Mat.wood_Mat
+[2020.03.17-01.43.32:920][426]LogContentValidation: Display: Validating Material /Game/Models/Materials_And_Textures/Brass.Brass
+[2020.03.17-01.43.32:920][426]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Models/Materials_And_Textures/DoorFrameConcrete.DoorFrameConcrete
+[2020.03.17-01.43.32:920][426]LogContentValidation: Display: Validating StaticMesh /Game/Models/Materials_And_Textures/SM_Door.SM_Door
+[2020.03.17-01.43.32:920][426]LogContentValidation: Display: Validating ObjectRedirector /Game/Models/SM_Door.SM_Door
+[2020.03.17-01.43.32:920][426]LogContentValidation: Display: Validating StaticMesh /Game/Models/Materials_And_Textures/SM_Door_Frame.SM_Door_Frame
+[2020.03.17-01.43.32:920][426]LogContentValidation: Display: Validating ObjectRedirector /Game/Models/SM_Door_Frame.SM_Door_Frame
+[2020.03.17-01.43.32:920][426]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Models/Materials_And_Textures/Stone_Floor.Stone_Floor
+[2020.03.17-01.43.32:920][426]LogContentValidation: Display: Validating Material /Game/Models/Materials_And_Textures/TexturesCom_CastleGate_1K_albedo_Mat.TexturesCom_CastleGate_1K_albedo_Mat
+[2020.03.17-01.43.32:920][426]LogContentValidation: Display: Validating ObjectRedirector /Game/Models/TexturesCom_CastleGate_1K_albedo_Mat.TexturesCom_CastleGate_1K_albedo_Mat
+[2020.03.17-01.43.32:920][426]LogContentValidation: Display: Validating Texture2D /Game/Models/Materials_And_Textures/TexturesCom_StoneWall3_2x2_1K_albedo.TexturesCom_StoneWall3_2x2_1K_albedo
+[2020.03.17-01.43.32:920][426]LogContentValidation: Display: Validating Material /Game/Models/Materials_And_Textures/TexturesCom_StoneWall3_2x2_1K_albedo_Mat.TexturesCom_StoneWall3_2x2_1K_albedo_Mat
+[2020.03.17-01.43.32:920][426]LogContentValidation: Display: Validating ObjectRedirector /Game/Models/TexturesCom_StoneWall3_2x2_1K_albedo_Mat.TexturesCom_StoneWall3_2x2_1K_albedo_Mat
+[2020.03.17-01.43.32:920][426]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Models/Materials_And_Textures/Wall.Wall
+[2020.03.17-01.43.32:920][426]LogContentValidation: Display: Validating ObjectRedirector /Game/Models/Wall.Wall
+[2020.03.17-01.43.32:920][426]LogContentValidation: Display: Validating Texture2D /Game/Models/Materials_And_Textures/wood.wood
+[2020.03.17-01.44.26:012][150]LogMaterial: Display: Missing cached shader map for material Ceiling, compiling. 
+[2020.03.17-01.44.26:052][151]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.03.17-01.44.26:052][151]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.03.17-01.44.26:052][151]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.03.17-01.44.26:052][151]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.03.17-01.44.35:102][669]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Models/Materials_And_Textures/Ceiling.Ceiling
+[2020.03.17-01.44.35:108][669]LogMaterial: Display: Missing cached shader map for material Ceiling, compiling. 
+[2020.03.17-01.44.35:200][669]LogMaterial: Display: Missing cached shader map for material Ceiling, compiling. 
+[2020.03.17-01.44.35:217][669]LogMaterial: Display: Missing cached shader map for material Ceiling, compiling. 
+[2020.03.17-01.44.35:231][669]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.03.17-01.44.35:232][669]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.03.17-01.44.35:232][669]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.03.17-01.44.35:232][669]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.03.17-01.44.35:241][669]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.17-01.44.35:832][694]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.03.17-01.44.36:119][710]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.03.17-01.44.36:159][711]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.03.17-01.44.36:159][711]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.03.17-01.44.36:584][737]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.03.17-01.44.36:600][738]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.03.17-01.44.36:800][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.03.17-01.44.36:884][755]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.03.17-01.44.37:042][764]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.03.17-01.44.37:043][764]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.03.17-01.44.37:044][764]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.03.17-01.44.37:044][764]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.03.17-01.44.37:044][764]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.17-01.44.37:044][764]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.03.17-01.44.37:044][764]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.17-01.44.47:512][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.TexturesCom_StoneWall3_2x2_1K_albedo_Mat:MaterialGraph_0.MaterialGraphNode_1 or MaterialGraphNode /Engine/Transient.Ceiling:MaterialGraph_0.MaterialGraphNode_1
+[2020.03.17-01.44.47:512][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionTextureCoordinate /Engine/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.TextureCropping:MaterialExpressionTextureCoordinate_0 or MaterialExpressionTextureCoordinate /Engine/EngineMaterials/BaseFlattenMaterial.BaseFlattenMaterial:MaterialExpressionTextureCoordinate_0
+[2020.03.17-01.44.47:512][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionTextureCoordinate /Engine/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.TextureCropping:MaterialExpressionTextureCoordinate_0 or MaterialExpressionTextureCoordinate /Engine/EditorLandscapeResources/SplineEditorMeshMat.SplineEditorMeshMat:MaterialExpressionTextureCoordinate_0
+[2020.03.17-01.44.47:512][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionTextureCoordinate /Engine/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.TextureCropping:MaterialExpressionTextureCoordinate_0 or MaterialExpressionTextureCoordinate /Paper2D/DefaultSpriteMaterial.DefaultSpriteMaterial:MaterialExpressionTextureCoordinate_0
+[2020.03.17-01.44.47:512][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionTextureCoordinate /Engine/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.TextureCropping:MaterialExpressionTextureCoordinate_0 or MaterialExpressionTextureCoordinate /Engine/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.ScaleUVsByCenter:MaterialExpressionTextureCoordinate_0
+[2020.03.17-01.44.47:512][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionTextureCoordinate /Engine/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.TextureCropping:MaterialExpressionTextureCoordinate_0 or MaterialExpressionTextureCoordinate /OculusVR/Materials/OculusMR_ChromaKey.OculusMR_ChromaKey:MaterialExpressionTextureCoordinate_0
+[2020.03.17-01.44.47:512][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionTextureCoordinate /Engine/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.TextureCropping:MaterialExpressionTextureCoordinate_0 or MaterialExpressionTextureCoordinate /OculusVR/Materials/OculusMR_ChromaKey_Lit.OculusMR_ChromaKey_Lit:MaterialExpressionTextureCoordinate_0
+[2020.03.17-01.44.47:512][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionTextureCoordinate /Engine/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.TextureCropping:MaterialExpressionTextureCoordinate_0 or MaterialExpressionTextureCoordinate /Engine/EngineDebugMaterials/BoneWeightMaterial.BoneWeightMaterial:MaterialExpressionTextureCoordinate_0
+[2020.03.17-01.44.47:512][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionTextureCoordinate /Engine/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.TextureCropping:MaterialExpressionTextureCoordinate_0 or MaterialExpressionTextureCoordinate /Engine/EditorMaterials/PreviewShadowIndicatorMaterial.PreviewShadowIndicatorMaterial:MaterialExpressionTextureCoordinate_0
+[2020.03.17-01.44.47:512][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionTextureCoordinate /Engine/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.TextureCropping:MaterialExpressionTextureCoordinate_0 or MaterialExpressionTextureCoordinate /Engine/Transient.TexturesCom_StoneWall3_2x2_1K_albedo_Mat:MaterialExpressionTextureCoordinate_0
+[2020.03.17-01.44.47:512][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionTextureCoordinate /Engine/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.TextureCropping:MaterialExpressionTextureCoordinate_0 or MaterialExpressionTextureCoordinate /Game/Models/Materials_And_Textures/TexturesCom_StoneWall3_2x2_1K_albedo_Mat.TexturesCom_StoneWall3_2x2_1K_albedo_Mat:MaterialExpressionTextureCoordinate_0
+[2020.03.17-01.44.47:513][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionTextureCoordinate /Engine/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.TextureCropping:MaterialExpressionTextureCoordinate_0 or MaterialExpressionTextureCoordinate /Engine/Transient.Ceiling:MaterialExpressionTextureCoordinate_0
+[2020.03.17-01.44.47:513][385]LogProperty: Warning: Illegal TEXT reference to a private object in external package (MaterialExpressionTextureCoordinate /Engine/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.TextureCropping:MaterialExpressionTextureCoordinate_0) from referencer (MaterialExpressionMultiply /Engine/Transient.Ceiling:MaterialGraph_0.MaterialGraphNode_4.MaterialExpressionMultiply_0).  Import failed...
+[2020.03.17-01.44.47:513][385]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_1.MaterialExpressionTextureCoordinate_0"')'
+[2020.03.17-01.44.47:513][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.TexturesCom_StoneWall3_2x2_1K_albedo_Mat:MaterialGraph_0.MaterialGraphNode_6 or MaterialGraphNode /Engine/Transient.Ceiling:MaterialGraph_0.MaterialGraphNode_6
+[2020.03.17-01.44.47:513][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionAppendVector /Engine/EngineMaterials/DefaultDeferredDecalMaterial.DefaultDeferredDecalMaterial:MaterialExpressionAppendVector_0 or MaterialExpressionAppendVector /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionAppendVector_0
+[2020.03.17-01.44.47:513][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionAppendVector /Engine/EngineMaterials/DefaultDeferredDecalMaterial.DefaultDeferredDecalMaterial:MaterialExpressionAppendVector_0 or MaterialExpressionAppendVector /Engine/EngineDebugMaterials/MAT_LevelColorationLitLightmapUV.MAT_LevelColorationLitLightmapUV:MaterialExpressionAppendVector_0
+[2020.03.17-01.44.47:513][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionAppendVector /Engine/EngineMaterials/DefaultDeferredDecalMaterial.DefaultDeferredDecalMaterial:MaterialExpressionAppendVector_0 or MaterialExpressionAppendVector /Engine/EditorMaterials/CompositeARGBLayer.CompositeARGBLayer:MaterialExpressionAppendVector_0
+[2020.03.17-01.44.47:513][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionAppendVector /Engine/EngineMaterials/DefaultDeferredDecalMaterial.DefaultDeferredDecalMaterial:MaterialExpressionAppendVector_0 or MaterialExpressionAppendVector /Engine/EditorMaterials/MakeCompositeARGBLayer.MakeCompositeARGBLayer:MaterialExpressionAppendVector_0
+[2020.03.17-01.44.47:513][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionAppendVector /Engine/EngineMaterials/DefaultDeferredDecalMaterial.DefaultDeferredDecalMaterial:MaterialExpressionAppendVector_0 or MaterialExpressionAppendVector /Engine/EditorMaterials/TextureGridCascaded1D.TextureGridCascaded1D:MaterialExpressionAppendVector_0
+[2020.03.17-01.44.47:513][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionAppendVector /Engine/EngineMaterials/DefaultDeferredDecalMaterial.DefaultDeferredDecalMaterial:MaterialExpressionAppendVector_0 or MaterialExpressionAppendVector /Engine/Transient.TexturesCom_StoneWall3_2x2_1K_albedo_Mat:MaterialExpressionAppendVector_0
+[2020.03.17-01.44.47:513][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionAppendVector /Engine/EngineMaterials/DefaultDeferredDecalMaterial.DefaultDeferredDecalMaterial:MaterialExpressionAppendVector_0 or MaterialExpressionAppendVector /Game/Models/Materials_And_Textures/TexturesCom_StoneWall3_2x2_1K_albedo_Mat.TexturesCom_StoneWall3_2x2_1K_albedo_Mat:MaterialExpressionAppendVector_0
+[2020.03.17-01.44.47:513][385]LogProperty: Warning: Illegal TEXT reference to a private object in external package (MaterialExpressionAppendVector /Engine/EngineMaterials/DefaultDeferredDecalMaterial.DefaultDeferredDecalMaterial:MaterialExpressionAppendVector_0) from referencer (MaterialExpressionMultiply /Engine/Transient.Ceiling:MaterialGraph_0.MaterialGraphNode_4.MaterialExpressionMultiply_0).  Import failed...
+[2020.03.17-01.44.47:513][385]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAppendVector'"MaterialGraphNode_6.MaterialExpressionAppendVector_0"')'
+[2020.03.17-01.44.47:513][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.TexturesCom_StoneWall3_2x2_1K_albedo_Mat:MaterialGraph_0.MaterialGraphNode_5 or MaterialGraphNode /Engine/Transient.Ceiling:MaterialGraph_0.MaterialGraphNode_5
+[2020.03.17-01.44.47:513][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionScalarParameter /Engine/EngineMaterials/BaseFlattenMaterial.BaseFlattenMaterial:MaterialExpressionScalarParameter_1 or MaterialExpressionScalarParameter /Engine/EngineMaterials/Widget3DPassThrough.Widget3DPassThrough:MaterialExpressionScalarParameter_1
+[2020.03.17-01.44.47:513][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionScalarParameter /Engine/EngineMaterials/BaseFlattenMaterial.BaseFlattenMaterial:MaterialExpressionScalarParameter_1 or MaterialExpressionScalarParameter /Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP.M_VolumeRenderSphereTracePP:MaterialExpressionScalarParameter_1
+[2020.03.17-01.44.47:513][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionScalarParameter /Engine/EngineMaterials/BaseFlattenMaterial.BaseFlattenMaterial:MaterialExpressionScalarParameter_1 or MaterialExpressionScalarParameter /OculusVR/Materials/OculusMR_ChromaKey_Lit.OculusMR_ChromaKey_Lit:MaterialExpressionScalarParameter_1
+[2020.03.17-01.44.47:513][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionScalarParameter /Engine/EngineMaterials/BaseFlattenMaterial.BaseFlattenMaterial:MaterialExpressionScalarParameter_1 or MaterialExpressionScalarParameter /Engine/EngineMaterials/HairDebugMaterial.HairDebugMaterial:MaterialExpressionScalarParameter_1
+[2020.03.17-01.44.47:513][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionScalarParameter /Engine/EngineMaterials/BaseFlattenMaterial.BaseFlattenMaterial:MaterialExpressionScalarParameter_1 or MaterialExpressionScalarParameter /Engine/EngineDebugMaterials/DebugEditorMaterial.DebugEditorMaterial:MaterialExpressionScalarParameter_1
+[2020.03.17-01.44.47:513][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionScalarParameter /Engine/EngineMaterials/BaseFlattenMaterial.BaseFlattenMaterial:MaterialExpressionScalarParameter_1 or MaterialExpressionScalarParameter /Engine/Transient.TexturesCom_StoneWall3_2x2_1K_albedo_Mat:MaterialExpressionScalarParameter_1
+[2020.03.17-01.44.47:513][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionScalarParameter /Engine/EngineMaterials/BaseFlattenMaterial.BaseFlattenMaterial:MaterialExpressionScalarParameter_1 or MaterialExpressionScalarParameter /Game/Models/Materials_And_Textures/TexturesCom_StoneWall3_2x2_1K_albedo_Mat.TexturesCom_StoneWall3_2x2_1K_albedo_Mat:MaterialExpressionScalarParameter_1
+[2020.03.17-01.44.47:513][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionScalarParameter /Engine/EngineMaterials/BaseFlattenMaterial.BaseFlattenMaterial:MaterialExpressionScalarParameter_1 or MaterialExpressionScalarParameter /Engine/Transient.Ceiling:MaterialExpressionScalarParameter_1
+[2020.03.17-01.44.47:514][385]LogProperty: Warning: Illegal TEXT reference to a private object in external package (MaterialExpressionScalarParameter /Engine/EngineMaterials/BaseFlattenMaterial.BaseFlattenMaterial:MaterialExpressionScalarParameter_1) from referencer (MaterialExpressionAppendVector /Engine/Transient.Ceiling:MaterialGraph_0.MaterialGraphNode_6.MaterialExpressionAppendVector_0).  Import failed...
+[2020.03.17-01.44.47:514][385]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_5.MaterialExpressionScalarParameter_1"')'
+[2020.03.17-01.44.47:514][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.TexturesCom_StoneWall3_2x2_1K_albedo_Mat:MaterialGraph_0.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.Ceiling:MaterialGraph_0.MaterialGraphNode_3
+[2020.03.17-01.44.47:514][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionScalarParameter /Engine/EngineMaterials/BaseFlattenMaterial.BaseFlattenMaterial:MaterialExpressionScalarParameter_2 or MaterialExpressionScalarParameter /Engine/EditorMaterials/Camera/CineMat.CineMat:MaterialExpressionScalarParameter_2
+[2020.03.17-01.44.47:514][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionScalarParameter /Engine/EngineMaterials/BaseFlattenMaterial.BaseFlattenMaterial:MaterialExpressionScalarParameter_2 or MaterialExpressionScalarParameter /Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP.M_VolumeRenderSphereTracePP:MaterialExpressionScalarParameter_2
+[2020.03.17-01.44.47:514][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionScalarParameter /Engine/EngineMaterials/BaseFlattenMaterial.BaseFlattenMaterial:MaterialExpressionScalarParameter_2 or MaterialExpressionScalarParameter /OculusVR/Materials/OculusMR_ChromaKey.OculusMR_ChromaKey:MaterialExpressionScalarParameter_2
+[2020.03.17-01.44.47:514][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionScalarParameter /Engine/EngineMaterials/BaseFlattenMaterial.BaseFlattenMaterial:MaterialExpressionScalarParameter_2 or MaterialExpressionScalarParameter /OculusVR/Materials/OculusMR_ChromaKey_Lit.OculusMR_ChromaKey_Lit:MaterialExpressionScalarParameter_2
+[2020.03.17-01.44.47:514][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionScalarParameter /Engine/EngineMaterials/BaseFlattenMaterial.BaseFlattenMaterial:MaterialExpressionScalarParameter_2 or MaterialExpressionScalarParameter /Engine/EngineMaterials/HairDebugMaterial.HairDebugMaterial:MaterialExpressionScalarParameter_2
+[2020.03.17-01.44.47:514][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionScalarParameter /Engine/EngineMaterials/BaseFlattenMaterial.BaseFlattenMaterial:MaterialExpressionScalarParameter_2 or MaterialExpressionScalarParameter /Engine/EngineDebugMaterials/ClothMaterial.ClothMaterial:MaterialExpressionScalarParameter_2
+[2020.03.17-01.44.47:514][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionScalarParameter /Engine/EngineMaterials/BaseFlattenMaterial.BaseFlattenMaterial:MaterialExpressionScalarParameter_2 or MaterialExpressionScalarParameter /Engine/EngineDebugMaterials/ClothMaterial_WF.ClothMaterial_WF:MaterialExpressionScalarParameter_2
+[2020.03.17-01.44.47:514][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionScalarParameter /Engine/EngineMaterials/BaseFlattenMaterial.BaseFlattenMaterial:MaterialExpressionScalarParameter_2 or MaterialExpressionScalarParameter /Engine/EditorMaterials/LevelGridMaterial.LevelGridMaterial:MaterialExpressionScalarParameter_2
+[2020.03.17-01.44.47:514][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionScalarParameter /Engine/EngineMaterials/BaseFlattenMaterial.BaseFlattenMaterial:MaterialExpressionScalarParameter_2 or MaterialExpressionScalarParameter /Engine/EditorMaterials/AssetViewer/M_SkyBox.M_SkyBox:MaterialExpressionScalarParameter_2
+[2020.03.17-01.44.47:514][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionScalarParameter /Engine/EngineMaterials/BaseFlattenMaterial.BaseFlattenMaterial:MaterialExpressionScalarParameter_2 or MaterialExpressionScalarParameter /Engine/Transient.TexturesCom_StoneWall3_2x2_1K_albedo_Mat:MaterialExpressionScalarParameter_2
+[2020.03.17-01.44.47:514][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionScalarParameter /Engine/EngineMaterials/BaseFlattenMaterial.BaseFlattenMaterial:MaterialExpressionScalarParameter_2 or MaterialExpressionScalarParameter /Game/Models/Materials_And_Textures/TexturesCom_StoneWall3_2x2_1K_albedo_Mat.TexturesCom_StoneWall3_2x2_1K_albedo_Mat:MaterialExpressionScalarParameter_2
+[2020.03.17-01.44.47:514][385]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionScalarParameter /Engine/EngineMaterials/BaseFlattenMaterial.BaseFlattenMaterial:MaterialExpressionScalarParameter_2 or MaterialExpressionScalarParameter /Engine/Transient.Ceiling:MaterialExpressionScalarParameter_2
+[2020.03.17-01.44.47:514][385]LogProperty: Warning: Illegal TEXT reference to a private object in external package (MaterialExpressionScalarParameter /Engine/EngineMaterials/BaseFlattenMaterial.BaseFlattenMaterial:MaterialExpressionScalarParameter_2) from referencer (MaterialExpressionAppendVector /Engine/Transient.Ceiling:MaterialGraph_0.MaterialGraphNode_6.MaterialExpressionAppendVector_0).  Import failed...
+[2020.03.17-01.44.47:514][385]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_3.MaterialExpressionScalarParameter_2"')'
+[2020.03.17-01.44.47:523][385]LogMaterial: Display: Missing cached shader map for material Ceiling, compiling. 
+[2020.03.17-01.44.47:546][386]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.03.17-01.44.47:546][386]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.03.17-01.44.47:547][386]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.03.17-01.44.47:547][386]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.03.17-01.44.48:111][419]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.03.17-01.44.48:358][433]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.03.17-01.44.48:423][437]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.03.17-01.44.48:458][438]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.03.17-01.44.48:915][462]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.03.17-01.44.49:353][487]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.03.17-01.44.49:353][487]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.03.17-01.44.49:353][487]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.03.17-01.44.49:353][487]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.17-01.44.49:353][487]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.03.17-01.44.49:353][487]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.17-01.44.55:926][878]LogMaterial: Display: Missing cached shader map for material Ceiling, compiling. 
+[2020.03.17-01.44.55:943][878]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.03.17-01.44.55:944][878]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.03.17-01.44.55:944][878]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.03.17-01.44.55:944][878]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.03.17-01.44.55:950][878]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.17-01.44.56:451][904]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.03.17-01.44.56:752][922]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.03.17-01.44.56:785][924]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.03.17-01.44.56:800][925]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.03.17-01.44.57:220][950]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.03.17-01.44.57:252][952]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.03.17-01.44.57:467][965]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.03.17-01.44.57:536][969]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.03.17-01.44.57:725][980]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.03.17-01.44.57:727][980]MaterialEditorStats: Base pass shader: 121 instructions
+[2020.03.17-01.44.57:727][980]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2020.03.17-01.44.57:728][980]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.03.17-01.44.57:728][980]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.17-01.44.57:728][980]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.03.17-01.44.57:728][980]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.17-01.45.00:597][152]LogMaterialEditor: Saving and Compiling material Ceiling
+[2020.03.17-01.45.01:105][152]LogMaterial: Display: Missing cached shader map for material Ceiling, compiling. 
+[2020.03.17-01.45.01:171][152]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.03.17-01.45.01:171][152]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.03.17-01.45.01:171][152]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.03.17-01.45.01:171][152]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.03.17-01.45.01:193][152]LogMaterial: Display: Missing cached shader map for material Ceiling, compiling. 
+[2020.03.17-01.45.01:255][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.03.17-01.45.01:279][152]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.17-01.45.02:699][152]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.03.17-01.45.02:699][152]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.03.17-01.45.02:699][152]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2020.03.17-01.45.02:699][152]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2020.03.17-01.45.02:699][152]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2020.03.17-01.45.02:699][152]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.03.17-01.45.02:699][152]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2020.03.17-01.45.02:699][152]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2020.03.17-01.45.02:699][152]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.03.17-01.45.02:699][152]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.03.17-01.45.02:699][152]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.03.17-01.45.02:702][152]TextureStreamingBuild: Display: Compiling optional shaders took 1.446 seconds.
+[2020.03.17-01.45.02:733][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.03.17-01.45.04:454][152]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.03.17-01.45.04:454][152]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.03.17-01.45.04:454][152]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.03.17-01.45.04:510][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Materials_And_Textures/Ceiling" FILE="../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/Materials_And_Textures/Ceiling.uasset" SILENT=true
+[2020.03.17-01.45.04:532][152]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/Ceiling52B94B424F32A6A6181773AD4EE023E5.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/Models/Materials_And_Textures/Ceiling.uasset'
+[2020.03.17-01.45.04:579][152]AssetCheck: New page: Asset Save: Ceiling
+[2020.03.17-01.45.04:579][152]LogContentValidation: Display: Validating Material /Game/Models/Materials_And_Textures/Ceiling.Ceiling
+[2020.03.17-01.45.04:587][152]MaterialEditorStats: Base pass shader: 121 instructions
+[2020.03.17-01.45.04:587][152]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2020.03.17-01.45.04:587][152]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.03.17-01.45.04:587][152]MaterialEditorStats: Texture samplers: 4/16
+[2020.03.17-01.45.04:587][152]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.03.17-01.45.04:587][152]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.17-01.46.16:831][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BuildingEscape" FILE="../../../../GitHub/Building-Escape/BuildingEscape/Content/BuildingEscape.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.17-01.46.16:864][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.03.17-01.46.16:899][308]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/BuildingEscapeD50D6C8746ED47FB27B1EE9B5C6F2C0E.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/BuildingEscape.umap'
+[2020.03.17-01.46.16:942][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BuildingEscape_BuiltData" FILE="../../../../GitHub/Building-Escape/BuildingEscape/Content/BuildingEscape_BuiltData.uasset" SILENT=true
+[2020.03.17-01.46.16:990][308]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/BuildingEscape_BuiltData7ECD4E234B9E6532F11BB3A59184374E.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/BuildingEscape_BuiltData.uasset'
+[2020.03.17-01.46.17:030][308]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.17-01.46.17:030][308]LogContentValidation: Display: Validating World /Game/BuildingEscape.BuildingEscape
+[2020.03.17-01.46.17:030][308]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/BuildingEscape_BuiltData.BuildingEscape_BuiltData
+[2020.03.17-01.47.01:789][952]MapCheck: New page: Map Check
+[2020.03.17-01.47.01:815][952]Cmd: MAP REBUILD ALLVISIBLE
+[2020.03.17-01.47.01:816][952]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.03.17-01.47.02:122][952]LogWorld: UWorld::CleanupWorld for BuildingEscape, bSessionEnded=true, bCleanupResources=false
+[2020.03.17-01.47.02:186][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.03.17-01.47.02:213][952]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.17-01.47.02:229][952]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.03.17-01.47.02:229][952]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.03.17-01.47.02:229][952]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.17-01.47.02:278][952]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.03.17-01.47.02:278][952]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.03.17-01.47.02:278][952]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.17-01.47.02:373][952]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 40
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 39
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 38
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 37
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 36
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 34
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 29
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.03.17-01.47.05:945][952]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.03.17-01.47.05:945][952]TextureStreamingBuild: Display: Compiling optional shaders took 3.758 seconds.
+[2020.03.17-01.47.05:951][952]LogLevel: Display: Export Material TexCoord Scales took 0.005 seconds.
+[2020.03.17-01.47.05:954][952]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2020.03.17-01.47.05:987][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.03.17-01.47.05:991][952]LightingResults: New page: Lighting Build - Mar 16, 2020, 5:47:05 PM
+[2020.03.17-01.47.05:999][952]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.17-01.47.06:004][952]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.17-01.47.06:004][952]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.17-01.47.06:005][952]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.17-01.47.06:005][952]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15228
+[2020.03.17-01.47.10:584][952]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.03.17-01.47.10:585][952]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.17-01.47.10:585][952]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.17-01.47.10:585][952]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.17-01.47.10:585][952]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.17-01.47.10:585][952]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.17-01.47.10:763][952]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.03.17-01.47.10:764][952]MapCheck: New page: BuildingEscape - Mar 16, 2020, 5:47:10 PM
+[2020.03.17-01.47.10:764][952]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.227ms to complete.
+[2020.03.17-01.47.10:767][952]LogEditorBuildUtils: Build time 0:08
+[2020.03.17-01.47.11:182][956]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.03.17-01.47.13:066][  8]Job is a success!
+[2020.03.17-01.47.13:247][  9]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2020.03.17-01.47.13:247][  9]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.03.17-01.47.13:247][  9]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2020.03.17-01.47.13:247][  9]LogVolumetricLightmapImport:      Bricks at depth
+[2020.03.17-01.47.13:247][  9]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2020.03.17-01.47.13:247][  9]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2020.03.17-01.47.13:247][  9]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2020.03.17-01.47.13:247][  9]LogVolumetricLightmapImport:      Bricks in each level
+[2020.03.17-01.47.13:247][  9]LogVolumetricLightmapImport:          BuildingEscape 			 10 bricks 	 100.0% (Persistent Level)
+[2020.03.17-01.47.13:379][  9]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2020.03.17-01.47.13:379][  9]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2020.03.17-01.47.13:379][  9]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2020.03.17-01.47.13:379][  9]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2020.03.17-01.47.13:379][  9]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2020.03.17-01.47.13:379][  9]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2020.03.17-01.47.13:379][  9]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (G8, 32X32)
+[2020.03.17-01.47.13:379][  9]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (BGRA8, 256X128)
+[2020.03.17-01.47.13:379][  9]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (BGRA8, 128X256)
+[2020.03.17-01.47.13:379][  9]LogStaticLightingSystem: BuildingEscape_BuiltData storing lightmap data for 10 meshes in 3 LightmapResourceClusters (3.3 Meshes per cluster).
+[2020.03.17-01.47.13:417][  9]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.03.17-01.47.13:422][  9]Lightmass on NOAHSLAPTOP: 1.39 sec total, 155 ms importing, 5 ms setup, 102 ms photons, 1.10 sec processing, 0 ms extra exporting [64/64 mappings]. Threads: 7.68 sec total, 1.58 sec processing.
+[2020.03.17-01.47.13:516][  9]LogStaticLightingSystem: Illumination: 7.43 sec (67 ms encoding lightmaps, 38 ms encoding shadowmaps)
+[2020.03.17-01.47.13:516][  9]LogStaticLightingSystem: Lightmap texture memory:  0.6 MB (0.1 MB streaming, 0.5 MB non-streaming), 6 textures
+[2020.03.17-01.47.13:516][  9]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.2 MB streaming, 0.2 MB non-streaming), 3 textures
+[2020.03.17-01.47.14:601][  9]DumpUnbuiltLightIteractions
+[2020.03.17-01.47.14:601][  9]Lights with unbuilt interactions: 0
+[2020.03.17-01.47.14:601][  9]
+[2020.03.17-01.47.14:601][  9]Primitives with unbuilt interactions: 0
+[2020.03.17-01.47.14:823][ 10]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.17-01.47.14:824][ 10]MapCheck: New page: BuildingEscape - Mar 16, 2020, 5:47:14 PM
+[2020.03.17-01.47.14:824][ 10]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.341ms to complete.
+[2020.03.17-01.47.16:284][ 90]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.17-01.47.16:302][ 90]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.17-01.47.16:302][ 90]PIE: New page: PIE session: BuildingEscape (Mar 16, 2020, 5:47:16 PM)
+[2020.03.17-01.47.16:302][ 90]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BuildingEscape
+[2020.03.17-01.47.16:316][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014293s)
+[2020.03.17-01.47.16:317][ 90]LogAIModule: Creating AISystem for world BuildingEscape
+[2020.03.17-01.47.16:317][ 90]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2020.03.17-01.47.16:317][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BuildingEscape.BuildingEscape to /Game/UEDPIE_0_BuildingEscape.BuildingEscape (0.015487s)
+[2020.03.17-01.47.16:345][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.03.17-01.47.16:346][ 90]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.17-01.47.16:346][ 90]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.17-01.47.16:346][ 90]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.17-01.47.16:346][ 90]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.17-01.47.16:346][ 90]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.17-01.47.16:346][ 90]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.17-01.47.16:347][ 90]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.17-01.47.16:347][ 90]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.17-01.47.16:347][ 90]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.17-01.47.16:347][ 90]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.17-01.47.16:377][ 90]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.17-01.47.16:378][ 90]LogAudioMixer: Display: Name: Headphones (Realtek USB Audio)
+[2020.03.17-01.47.16:378][ 90]LogAudioMixer: Display: Is Default: Yes
+[2020.03.17-01.47.16:378][ 90]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.17-01.47.16:378][ 90]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.17-01.47.16:378][ 90]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.17-01.47.16:378][ 90]LogAudioMixer: Display: Channel Order:
+[2020.03.17-01.47.16:378][ 90]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.17-01.47.16:378][ 90]LogAudioMixer: Display: 1: FrontRight
+[2020.03.17-01.47.16:400][ 90]LogAudioMixer: Display: Using Audio Device Headphones (Realtek USB Audio)
+[2020.03.17-01.47.16:404][ 90]LogInit: FAudioDevice initialized.
+[2020.03.17-01.47.16:418][ 90]LogLoad: Game class is 'GameModeBase'
+[2020.03.17-01.47.16:420][ 90]LogWorld: Bringing World /Game/UEDPIE_0_BuildingEscape.BuildingEscape up for play (max tick rate 60) at 2020.03.16-21.47.16
+[2020.03.17-01.47.16:420][ 90]LogWorld: Bringing up level for play took: 0.001146
+[2020.03.17-01.47.16:420][ 90]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2020.03.17-01.47.16:423][ 90]LogTemp: Warning: Cube_2 position in world is: X=40.000 Y=-430.000 Z=110.000
+[2020.03.17-01.47.16:423][ 90]PIE: Play in editor start time for /Game/UEDPIE_0_BuildingEscape 0.649
+[2020.03.17-01.47.30:095][908]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.17-01.47.30:095][908]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.17-01.47.30:095][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.17-01.47.30:095][908]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BuildingEscape
+[2020.03.17-01.47.30:095][908]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.17-01.47.30:095][908]LogWorld: UWorld::CleanupWorld for BuildingEscape, bSessionEnded=true, bCleanupResources=true
+[2020.03.17-01.47.30:096][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.17-01.47.30:104][908]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.17-01.47.30:107][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.17-01.47.30:137][908]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.17-01.47.30:142][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.17-01.47.30:145][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.03.17-01.47.30:200][910]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2020.03.17-01.47.38:373][392]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.17-01.47.38:392][392]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.17-01.47.38:392][392]PIE: New page: PIE session: BuildingEscape (Mar 16, 2020, 5:47:38 PM)
+[2020.03.17-01.47.38:392][392]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BuildingEscape
+[2020.03.17-01.47.38:409][392]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017207s)
+[2020.03.17-01.47.38:410][392]LogAIModule: Creating AISystem for world BuildingEscape
+[2020.03.17-01.47.38:411][392]LogPlayLevel: PIE: World Init took: (0.001281s)
+[2020.03.17-01.47.38:411][392]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BuildingEscape.BuildingEscape to /Game/UEDPIE_0_BuildingEscape.BuildingEscape (0.018750s)
+[2020.03.17-01.47.38:443][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.03.17-01.47.38:444][392]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.17-01.47.38:444][392]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.17-01.47.38:444][392]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.17-01.47.38:444][392]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.17-01.47.38:444][392]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.17-01.47.38:444][392]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.17-01.47.38:444][392]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.17-01.47.38:444][392]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.17-01.47.38:445][392]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.17-01.47.38:445][392]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.17-01.47.38:475][392]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.17-01.47.38:475][392]LogAudioMixer: Display: Name: Headphones (Realtek USB Audio)
+[2020.03.17-01.47.38:475][392]LogAudioMixer: Display: Is Default: Yes
+[2020.03.17-01.47.38:475][392]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.17-01.47.38:475][392]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.17-01.47.38:475][392]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.17-01.47.38:475][392]LogAudioMixer: Display: Channel Order:
+[2020.03.17-01.47.38:475][392]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.17-01.47.38:475][392]LogAudioMixer: Display: 1: FrontRight
+[2020.03.17-01.47.38:494][392]LogAudioMixer: Display: Using Audio Device Headphones (Realtek USB Audio)
+[2020.03.17-01.47.38:496][392]LogInit: FAudioDevice initialized.
+[2020.03.17-01.47.38:510][392]LogLoad: Game class is 'GameModeBase'
+[2020.03.17-01.47.38:512][392]LogWorld: Bringing World /Game/UEDPIE_0_BuildingEscape.BuildingEscape up for play (max tick rate 60) at 2020.03.16-21.47.38
+[2020.03.17-01.47.38:512][392]LogWorld: Bringing up level for play took: 0.001100
+[2020.03.17-01.47.38:512][392]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2020.03.17-01.47.38:514][392]LogTemp: Warning: Cube_2 position in world is: X=40.000 Y=-430.000 Z=110.000
+[2020.03.17-01.47.38:515][392]PIE: Play in editor start time for /Game/UEDPIE_0_BuildingEscape 0.741
+[2020.03.17-01.47.45:697][811]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.17-01.47.45:697][811]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.17-01.47.45:697][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.17-01.47.45:697][811]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BuildingEscape
+[2020.03.17-01.47.45:697][811]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.17-01.47.45:697][811]LogWorld: UWorld::CleanupWorld for BuildingEscape, bSessionEnded=true, bCleanupResources=true
+[2020.03.17-01.47.45:697][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.17-01.47.45:706][811]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.17-01.47.45:710][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.17-01.47.45:739][811]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.17-01.47.45:744][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.17-01.47.45:747][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.03.17-01.47.45:814][813]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2020.03.17-01.47.46:747][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BuildingEscape" FILE="../../../../GitHub/Building-Escape/BuildingEscape/Content/BuildingEscape.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.17-01.47.46:781][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.03.17-01.47.46:825][866]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/BuildingEscape415758844306B719D82570A23D97A204.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/BuildingEscape.umap'
+[2020.03.17-01.47.46:872][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BuildingEscape_BuiltData" FILE="../../../../GitHub/Building-Escape/BuildingEscape/Content/BuildingEscape_BuiltData.uasset" SILENT=true
+[2020.03.17-01.47.46:916][866]LogSavePackage: Moving '../../../../GitHub/Building-Escape/BuildingEscape/Saved/BuildingEscape_BuiltDataA07417F04DDC713D8838988D01C1791E.tmp' to '../../../../GitHub/Building-Escape/BuildingEscape/Content/BuildingEscape_BuiltData.uasset'
+[2020.03.17-01.47.46:957][866]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.17-01.47.46:957][866]LogContentValidation: Display: Validating World /Game/BuildingEscape.BuildingEscape
+[2020.03.17-01.47.46:957][866]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/BuildingEscape_BuiltData.BuildingEscape_BuiltData
