@@ -1,0 +1,8 @@
+{
+	"files.exclude": {
+		"D:/GitHub/Building-Escape/BuildingEscape/.vscode": true,
+		"D:/GitHub/Building-Escape/BuildingEscape/Content": true,
+		"D:/GitHub/Building-Escape/BuildingEscape/Intermediate": true
+	},
+	"C_Cpp.errorSquiggles": "Disabled"
+}
